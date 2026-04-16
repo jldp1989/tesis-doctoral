@@ -1,0 +1,148 @@
+# Anexo F: Materiales de investigación {.unnumbered}
+
+Este anexo documenta los datos de investigación, los archivos de red y los scripts de visualización utilizados en el análisis de la tesis. Los materiales se publican con fines de transparencia, reproducibilidad y consulta académica.
+
+::: {.content-visible when-format="pdf"}
+::: {.callout-note}
+## Materiales disponibles en la versión web
+
+Los materiales completos de investigación están disponibles en la versión web de esta tesis, publicada en GitHub Pages. La versión web incluye:
+
+- **Matriz de análisis completa** — 80 videos × 144 variables codificadas manualmente, con metadatos, variables textuales, pragmático-discursivas, multimodales e índices compuestos.
+- **Índices por youtuber** — Promedios de los 5 índices compuestos (IGL, ICP, IMP, IEX, IAP) por creador.
+- **Datos de red (Gephi)** — Nodos y aristas del Análisis de Redes Sociales: red de colaboraciones (59 nodos, 668 aristas) y red temática (26 nodos, 375 aristas).
+- **Scripts de visualización** — Código fuente en Python de las 24 visualizaciones publicadas en la tesis (histogramas, heatmaps, scatter plots, tablas estilizadas).
+- **Transcripciones completas** — 80 transcripciones con marcas temporales (~96.000 palabras).
+
+Todos los archivos están documentados y pueden descargarse desde la carpeta `materiales/` del repositorio. Consulte la versión digital en [tesis.jldp.com.ar](https://tesis.jldp.com.ar).
+:::
+:::
+
+::: {.content-visible when-format="html"}
+
+## Descarga de materiales
+
+Todos los archivos están disponibles en la carpeta [`materiales/`](materiales/) del repositorio. A continuación se describe cada recurso.
+
+---
+
+## 1. Matriz de análisis
+
+```
+📄 materiales/matriz_analisis.csv (148 KB)
+   Formato: CSV, separador punto y coma (;), codificación UTF-8
+   Dimensiones: 80 filas (videos) × 144 columnas (variables)
+```
+
+La matriz de codificación es el instrumento central de la investigación. Cada fila corresponde a uno de los 80 videos del corpus (8 youtubers × 10 videos). Las 144 columnas se organizan en los siguientes bloques:
+
+| Bloque | Columnas | Variables |
+|:--|:--:|:--|
+| Metadatos del video | 1–8 | VID, autor, título, link YouTube, vistas, fecha, duración, descripción |
+| Funciones textuales | 9–10 | Función según Griffith, función predominante |
+| Tipos de procedimiento | 11–20 | Narrativo, descriptivo, expositivo, argumentativo, dialogal (presencia y saturación) |
+| Superestructura | 21–30 | Pre-roll, intro, saludo, presentación, core, despedida, outro, post-roll, progresión temática, subgénero |
+| Categorías temáticas | 31–50 | 18 temas + estructura temática (identidad, extimidad, familia, humor, viajes, etc.) |
+| Pragmática y sociolingüística | 51–70 | Deícticos, actos de habla, coloquialismos, variación dialectal, léxico web, plataformas |
+| Escenarios y espacios | 71–82 | Privado/público, dormitorio, sala, baño, exteriores, tipo de fondo |
+| Vestimenta y cuerpo | 83–89 | Sin remera, gorra, accesorios, ropa deportiva, cambios de ropa |
+| Planos y cámara | 90–96 | Primer plano, plano general, primerísimo PP, plano detalle, picado, contrapicado |
+| Audio y montaje | 97–102 | Música de fondo, audios enlatados, clips insertados, silencio, audio original |
+| Gestualidad y corporalidad | 103–111 | Expresividad facial, gestos con manos, corporalidad, beboteo, violencia, contacto físico |
+| Identidad — Giddens | 112–122 | 10 dimensiones (yo-nosotros, reflexividad, autenticidad, centralidad del cuerpo, riesgo, ritos de pasaje, etc.) |
+| Dicotomías | 123–126 | Global/local, joven/adulto, redes/masas, obedecer/distinguirse |
+| Backstage — Meyrowitz | 127–138 | 12 rasgos (nombres de pila, faltas de respeto, sexualidad, dialecto, bromas, vida cotidiana, etc.) |
+| Índices compuestos | 139–144 | IGL, ICP, IMP, IEX, IAP + notas |
+
+: Estructura de la matriz de análisis: 144 variables organizadas en 15 bloques temáticos. {#tbl-estructura-matriz}
+
+---
+
+## 2. Índices compuestos por youtuber
+
+```
+📄 materiales/indices_promedios.csv (341 bytes)
+   Formato: CSV, separador punto y coma (;)
+```
+
+Promedios de los cinco índices compuestos por cada youtuber del corpus:
+
+| Índice | Rango | Descripción |
+|:--|:--:|:--|
+| **IGL** | −2 a +2 | Glocalidad: grado de anclaje local (−) vs. proyección global (+) |
+| **ICP** | 1–10 | Cercanía Parasocial: intensidad del vínculo simulado con la audiencia |
+| **IMP** | 1–10 | Modulación Pasional: grado de expresividad emocional y corporal |
+| **IEX** | 1–10 | Extimidad: grado de exposición de la intimidad |
+| **IAP** | 1–10 | Autenticidad Performativa: credibilidad de la espontaneidad construida |
+
+: Descripción de los cinco índices compuestos. {#tbl-desc-indices}
+
+---
+
+## 3. Datos de red — Análisis de Redes Sociales
+
+Archivos preparados para [Gephi](https://gephi.org/) u otro software de visualización y análisis de redes.
+
+### Red de colaboraciones
+
+```
+📄 materiales/red_nodos.csv (2.7 KB) — 59 nodos
+📄 materiales/red_aristas.csv (38.6 KB) — 668 aristas ponderadas
+```
+
+- **Nodos:** 8 youtubers del corpus nuclear + 16 colaboradores frecuentes + nodos temáticos. Cada nodo tiene ID, etiqueta y tipo (Youtuber / Tema).
+- **Aristas:** relaciones de colaboración y co-ocurrencia temática, ponderadas por frecuencia. Cada arista tiene nodo origen, destino y peso.
+
+### Red temática
+
+```
+📄 materiales/red_nodos_tematicos.csv (1.4 KB) — 26 nodos
+📄 materiales/red_aristas_tematicas.csv (8.5 KB) — 375 aristas
+```
+
+- Grafo bipartito que conecta youtubers con las 18 categorías temáticas.
+- El peso de cada arista indica la frecuencia normalizada de co-ocurrencia entre un creador y un tema.
+
+---
+
+## 4. Scripts de visualización
+
+```
+📂 materiales/scripts/
+   ├── viz_all.py (25 KB) — Script principal: 24 visualizaciones
+   ├── viz_giddens_tabla.py (4.6 KB) — Tabla de dimensiones identitarias
+   └── topic_modeling.py (5.9 KB) — Modelado de tópicos (LDA)
+```
+
+**Requisitos:** Python 3.8+, pandas, matplotlib, seaborn, numpy.
+
+**`viz_all.py`** genera todas las figuras estadísticas de la tesis: histogramas de distribución de variables, heatmaps de correlación entre índices, scatter plots de relaciones bivariadas, tablas estilizadas de frecuencias léxicas y diagramas de red. Cada visualización se exporta en PNG de alta resolución y se referencia en el capítulo correspondiente.
+
+**`viz_giddens_tabla.py`** genera la tabla de dimensiones de la identidad moderna según Giddens, utilizada en el marco teórico (Capítulo 2).
+
+---
+
+---
+
+## 5. Datos adicionales y transcripciones
+
+```
+📄 materiales/transcripciones.csv (590 KB)
+   Formato: CSV, separador coma (,), codificación UTF-8
+📄 materiales/matriz_indices.csv (145 KB)
+   Formato: CSV, separador punto y coma (;)
+```
+
+- **`transcripciones.csv`**: Base de datos textual procesada que contiene el texto de los 80 videos, lista para su análisis computacional mediante el script de topic modeling.
+- **`matriz_indices.csv`**: Versión refinada de la matriz centrada en los cinco índices de identidad calculados (IGL, ICP, IMP, IEX, IAP), utilizada para las correlaciones estadísticas.
+- **Anexo E**: Las transcripciones completas en formato legible están disponibles en el [Anexo E](anexo_d_transcripciones.qmd) de la versión web.
+
+---
+
+## Licencia
+
+Estos materiales se publican bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Para citar:
+
+> De Piero, J. L. (2026). *El videoblog como espacio social practicado: discursos, narrativas e identidades juveniles en YouTube Argentina (2012–2016)* [Tesis doctoral, Universidad Nacional de Tucumán]. Materiales de investigación.
+
+:::

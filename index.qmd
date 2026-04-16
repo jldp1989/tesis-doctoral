@@ -1,0 +1,15 @@
+# Dedicatoria {.unnumbered .unlisted}
+
+\vspace*{\fill}
+
+::: {.center}
+
+A Lilí, por la vida.\
+A María Luisa, por la crianza.\
+A las dos, por todo lo demás.
+
+*In memoriam.*
+
+:::
+
+\vspace*{\fill}

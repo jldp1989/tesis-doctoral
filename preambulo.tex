@@ -1,0 +1,148 @@
+% preambulo.tex — Preámbulo LaTeX para la tesis doctoral (Quarto → PDF)
+% Configuración APA: tablas/figuras con título arriba y fuente abajo,
+% citas con márgenes simétricos, IBM Plex como familia tipográfica.
+
+% ─── Fuentes IBM Plex ─────────────────────────────────────────────
+% La configuración de mainfont/monofont/sansfont va en _quarto.yml.
+% Aquí configuramos aspectos complementarios.
+\usepackage{fontspec}
+
+% ─── Márgenes (APA doctoral) ──────────────────────────────────────
+\usepackage[
+  a4paper,
+  top=2.5cm,
+  bottom=2.5cm,
+  left=3cm,
+  right=2.5cm
+]{geometry}
+
+% ─── Interlineado ─────────────────────────────────────────────────
+\usepackage{setspace}
+\setstretch{1.5}
+
+% ─── Block quotes: márgenes simétricos de 1cm extra ──────────────
+\usepackage{csquotes}
+\renewenvironment{quote}%
+  {\list{}{\leftmargin=1cm\rightmargin=1cm\itshape}%
+   \item\relax\small}%
+  {\endlist}
+
+% ─── Tablas: título arriba (APA) ─────────────────────────────────
+\usepackage{caption}
+\captionsetup[table]{
+  position=above,
+  labelfont={bf,small},
+  textfont={small},
+  labelsep=period,
+  justification=raggedright,
+  singlelinecheck=false,
+  skip=6pt
+}
+\captionsetup[figure]{
+  position=above,
+  labelfont={bf,small},
+  textfont={small},
+  labelsep=period,
+  justification=raggedright,
+  singlelinecheck=false,
+  skip=6pt
+}
+
+% Nota de fuente debajo de tablas (uso manual: \tablenote{...})
+\newcommand{\tablenote}[1]{%
+  \par\vspace{4pt}%
+  {\small\textit{Nota.} #1}%
+}
+
+% ─── Encabezados (jerarquía visual APA-compatible) ────────────────
+\usepackage{titlesec}
+
+% Nivel 1: Capítulo — IBM Plex Sans Bold, grande
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\sffamily}
+  {\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-20pt}{40pt}
+
+% Nivel 2: Sección
+\titleformat{\section}
+  {\normalfont\Large\bfseries\sffamily}
+  {\thesection}{1em}{}
+
+% Nivel 3: Subsección
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\sffamily}
+  {\thesubsection}{1em}{}
+
+% Nivel 4: Subsubsección (itálica bold, APA nivel 3)
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries\itshape\sffamily}
+  {\thesubsubsection}{1em}{}
+
+% Nivel 5: Párrafo (bold, APA nivel 4)
+\titleformat{\paragraph}
+  {\normalfont\normalsize\bfseries\sffamily}
+  {\theparagraph}{1em}{}
+
+% Nivel 6: Subpárrafo (itálica)
+\titleformat{\subparagraph}
+  {\normalfont\normalsize\itshape\sffamily}
+  {\thesubparagraph}{1em}{}
+
+% ─── Hipervínculos ────────────────────────────────────────────────
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor={blue!60!black},
+  citecolor={blue!60!black},
+  urlcolor={blue!70!black},
+  bookmarksnumbered=true,
+  bookmarksopen=true
+}
+
+% ─── Líneas finas para tablas (estilo limpio) ─────────────────────
+\usepackage{booktabs}
+
+% ─── Colores personalizados ──────────────────────────────────────
+\usepackage{xcolor}
+\definecolor{accentblue}{HTML}{0F62FE}   % IBM Blue
+\definecolor{darkgray}{HTML}{393939}
+
+% ─── Notas al pie ────────────────────────────────────────────────
+\usepackage[bottom,hang]{footmisc}
+\setlength{\footnotemargin}{0.8em}
+
+% ─── Código (snippets) con fondo gris ────────────────────────────
+\usepackage{framed}
+\definecolor{codebg}{HTML}{F4F4F4}
+\AtBeginDocument{%
+  \ifdefined\Shaded
+    \renewenvironment{Shaded}{\begin{snugshade}\small}{\end{snugshade}}%
+    \colorlet{shadecolor}{codebg}%
+  \fi
+}
+
+% ─── Epígrafe / dedicatoria ──────────────────────────────────────
+\newcommand{\epigraph}[2]{%
+  \begin{flushright}
+  \begin{minipage}{0.6\textwidth}
+  \small\itshape #1
+  \par\vspace{4pt}
+  \upshape\small --- #2
+  \end{minipage}
+  \end{flushright}
+  \vspace{1em}
+}
+
+% ─── Portadilla con directora (PDF) ──────────────────────────────
+% Redefine \maketitle para incluir a la directora de tesis
+% debajo del autor, en la página de título generada por Quarto.
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd{\maketitle}
+  {\@author}
+  {\@author\\[0.8em]
+   {\normalsize\normalfont
+    Directora de tesis:\\[0.2em]
+    \textbf{Dra.~María Gabriela Palazzo}}}
+  {}{}
+\makeatother

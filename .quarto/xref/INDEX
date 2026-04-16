@@ -1,0 +1,59 @@
+{
+  "index.qmd": {
+    "index.html": "d80e5100"
+  },
+  "resumen.qmd": {
+    "resumen.html": "86687e6b"
+  },
+  "agradecimientos.qmd": {
+    "agradecimientos.html": "e2caad20"
+  },
+  "01_intro.qmd": {
+    "01_intro.html": "202eaf3c"
+  },
+  "02_mtya.qmd": {
+    "02_mtya.html": "652da67e"
+  },
+  "03_metod.qmd": {
+    "03_metod.html": "e93c77a5"
+  },
+  "04_genero.qmd": {
+    "04_genero.html": "b4c8c154"
+  },
+  "05_identidades.qmd": {
+    "05_identidades.html": "a9f99e86"
+  },
+  "06_trayectorias.qmd": {
+    "06_trayectorias.html": "7a0f4294"
+  },
+  "07_lenguaje.qmd": {
+    "07_lenguaje.html": "b7fe442f"
+  },
+  "08_conclusiones.qmd": {
+    "08_conclusiones.html": "b56d9010"
+  },
+  "referencias.qmd": {
+    "referencias.html": "8337febd"
+  },
+  "anexo_a_youtubers.qmd": {
+    "anexo_a_youtubers.html": "176dee95"
+  },
+  "anexo_b_glosario.qmd": {
+    "anexo_b_glosario.html": "2429fc44"
+  },
+  "anexo_c_corpus.qmd": {
+    "anexo_c_corpus.html": "b42df1cd"
+  },
+  "anexo_d_transcripciones.qmd": {
+    "anexo_d_transcripciones.html": "8617df89"
+  },
+  "anexo_e_materiales.qmd": {
+    "anexo_e_materiales.html": "6c82ce89"
+  },
+  "anexo_f_topicmodeling.qmd": {
+    "anexo_f_topicmodeling.html": "f2828680"
+  },
+  "indice_tematico.qmd": {
+    "indice_tematico.html": "4b994149"
+  }
+}

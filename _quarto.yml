@@ -1,0 +1,113 @@
+project:
+  type: book
+  output-dir: _book
+  resources:
+    - materiales/
+    - scripts/
+    - data/
+    - bibl/
+    - imagenes/
+    - capturas/
+
+book:
+  title: "El videoblog como espacio social practicado: discursos, narrativas e identidades juveniles en YouTube Argentina (2012-2016)"
+  subtitle: "Tesis doctoral"
+  author: "José Luis De Piero"
+  date: "2026"
+  language: es
+
+  sidebar:
+    style: "floating"
+    search: true
+
+  # ─── Estructura de la tesis ───────────────────────────────────────
+  # Portada: manual (fuera de Quarto, según normas UNT)
+  # Quarto genera: portadilla (título) → resumen → TOC → dedicatoria → agradecimientos → partes
+  chapters:
+    - index.qmd              # Dedicatoria
+    - resumen.qmd            # Resumen / Abstract
+    - agradecimientos.qmd    # Agradecimientos
+
+    - part: "Fundamentos"
+      chapters:
+        - 01_intro.qmd         # Cap. 1: Introducción
+        - 02_mtya.qmd          # Cap. 2: Marco teórico
+        - 03_metod.qmd         # Cap. 3: Metodología
+
+    - part: "Análisis y resultados"
+      chapters:
+        - 04_genero.qmd        # Cap. 4: El vlog como género
+        - 05_identidades.qmd   # Cap. 5: Identidades juveniles
+        - 06_trayectorias.qmd  # Cap. 6: Trayectorias
+        - 07_lenguaje.qmd      # Cap. 7: Lenguaje
+
+    - part: "Cierre"
+      chapters:
+        - 08_conclusiones.qmd  # Cap. 8: Conclusiones
+
+    - part: "Referencias Bibliográficas"
+      chapters:
+        - referencias.qmd      # Bibliografía (generada por Quarto)
+
+    - part: "Anexos"
+      chapters:
+        - anexo_a_youtubers.qmd          # Anexo A: Tabla de youtubers
+        - anexo_b_glosario.qmd           # Anexo B: Glosario de términos
+        - anexo_c_corpus.qmd             # Anexo C: Listado del corpus
+        - anexo_d_transcripciones.qmd    # Anexo D: Transcripciones (web-only)
+        - anexo_e_materiales.qmd         # Anexo E: Materiales de investigación (web-only)
+        - anexo_f_topicmodeling.qmd      # Anexo F: Modelado de tópicos (web-only)
+        - indice_tematico.qmd            # Índice temático
+
+bibliography: bibl/tesis.bib
+csl: bibl/apa.csl
+
+# Referencia cruzada en español
+crossref:
+  fig-title: "Figura"
+  tbl-title: "Tabla"
+  fig-prefix: "Figura"
+  tbl-prefix: "Tabla"
+
+filters:
+  - debruine/glossary
+
+glossary:
+  path: glosario.yml
+  show: true
+
+# ─── Formato HTML (navegación web) ────────────────────────────────
+format:
+  html:
+    theme:
+      light: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    mainfont: "IBM Plex Sans"
+    monofont: "IBM Plex Mono"
+    css: estilos.css
+
+  # ─── Formato PDF (entrega doctoral) ──────────────────────────────
+  pdf:
+    documentclass: report
+    papersize: a4
+    number-sections: true
+    toc: true
+    toc-depth: 3
+    lof: true
+    lot: true
+    include-in-header: preambulo.tex
+    mainfont: "IBM Plex Sans"
+    sansfont: "IBM Plex Sans Condensed"
+    monofont: "IBM Plex Mono"
+    mathfont: "IBM Plex Sans"
+    mainfontoptions:
+      - Numbers=Proportional
+    sansfontoptions:
+      - Numbers=Proportional
+    cap-location: top
+    linestretch: 1.5
+    csquotes: true
+    lang: es
+    babel-lang: spanish

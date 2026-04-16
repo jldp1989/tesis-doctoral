@@ -1,0 +1,183 @@
+/* estilos.css — Estilos personalizados para la versión HTML de la tesis */
+/* Complementa el tema Cosmo con tipografía IBM Plex y convenciones APA */
+
+/* ─── Importar IBM Plex desde Google Fonts (fallback si no está local) ─── */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,600&family=IBM+Plex+Sans+Condensed:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* ─── Tipografía base ─── */
+body {
+  font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #161616;
+}
+
+/* ─── Encabezados: IBM Plex Sans Condensed ─── */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'IBM Plex Sans Condensed', 'IBM Plex Sans', sans-serif;
+  font-weight: 600;
+  color: #0f62fe;
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+}
+
+h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid #0f62fe;
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #393939;
+}
+
+h3 {
+  font-size: 1.25rem;
+  color: #525252;
+}
+
+h4 {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: #525252;
+}
+
+/* ─── Código: IBM Plex Mono ─── */
+code, pre, .sourceCode {
+  font-family: 'IBM Plex Mono', 'Fira Code', monospace;
+  font-size: 0.88em;
+}
+
+pre {
+  background-color: #f4f4f4;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 1em;
+}
+
+/* ─── Block quotes: márgenes simétricos 1cm + itálica (APA) ─── */
+blockquote {
+  margin-left: 1cm;
+  margin-right: 1cm;
+  padding: 0.5em 1em;
+  border-left: 3px solid #0f62fe;
+  background-color: #f9f9fb;
+  font-style: italic;
+  font-family: 'IBM Plex Serif', 'Georgia', serif;
+  font-size: 0.95em;
+  color: #393939;
+}
+
+blockquote p {
+  margin: 0.4em 0;
+}
+
+/* ─── Tablas: APA (título arriba, líneas horizontales) ─── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.92em;
+}
+
+table caption {
+  caption-side: top;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.95em;
+  padding-bottom: 0.5em;
+  color: #393939;
+}
+
+thead {
+  border-top: 2px solid #161616;
+  border-bottom: 1px solid #161616;
+}
+
+tbody {
+  border-bottom: 2px solid #161616;
+}
+
+th {
+  font-weight: 600;
+  text-align: left;
+  padding: 0.5em 0.8em;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+td {
+  padding: 0.4em 0.8em;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+tr:hover {
+  background-color: #f4f4f4;
+}
+
+/* ─── Figuras: título arriba (APA) ─── */
+figure {
+  margin: 2em 0;
+}
+
+figure figcaption {
+  caption-side: top;
+  font-weight: 600;
+  font-size: 0.95em;
+  margin-bottom: 0.5em;
+  color: #393939;
+}
+
+/* ─── Callouts (notas de captura pendiente) ─── */
+.callout-note {
+  border-left-color: #0f62fe;
+}
+
+/* ─── Sidebar / TOC ─── */
+.sidebar nav[role="doc-toc"] {
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+  font-size: 0.9em;
+}
+
+/* ─── Notas al pie ─── */
+.footnote-ref, .footnote-back {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 0.8em;
+}
+
+/* ─── Citas bibliográficas ─── */
+.csl-entry {
+  font-size: 0.92em;
+  line-height: 1.5;
+  padding-left: 2em;
+  text-indent: -2em;
+  margin-bottom: 0.5em;
+}
+
+/* ─── Smallcaps para términos técnicos ─── */
+.smallcaps {
+  font-variant: small-caps;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+/* ─── Print-friendly ─── */
+@media print {
+  body {
+    font-size: 11pt;
+    line-height: 1.5;
+  }
+  
+  h1 {
+    border-bottom: none;
+    color: #000;
+  }
+  
+  h2, h3, h4 {
+    color: #000;
+  }
+  
+  blockquote {
+    border-left: 1px solid #666;
+    background: none;
+  }
+}

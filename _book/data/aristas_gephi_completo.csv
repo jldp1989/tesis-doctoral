@@ -1,0 +1,669 @@
+Source,Target,Weight
+Elchuiuical,Identidad y subjetividad,0.005569713405751986
+Gonzalo Fonseca,Identidad y subjetividad,0.003459314432074638
+Gonzalo Goette,Identidad y subjetividad,0.004381687898686379
+Julián Serrano,Identidad y subjetividad,0.010373500534773388
+Lionel Ferro,Identidad y subjetividad,0.004103999225136134
+Lucas Castel,Identidad y subjetividad,0.006271759389830618
+Mariano Bondar,Identidad y subjetividad,0.008378053061471016
+Mica Suárez,Identidad y subjetividad,0.007893444428966978
+Elchuiuical,Extimidad e intimidad compartida,0.0023455566349930733
+Gonzalo Fonseca,Extimidad e intimidad compartida,0.0002626423285913224
+Gonzalo Goette,Extimidad e intimidad compartida,0.0012871099565675325
+Julián Serrano,Extimidad e intimidad compartida,0.0066962347798523334
+Lionel Ferro,Extimidad e intimidad compartida,0.0015459214049992696
+Lucas Castel,Extimidad e intimidad compartida,0.0018226461630469208
+Mariano Bondar,Extimidad e intimidad compartida,0.0017287265510592571
+Mica Suárez,Extimidad e intimidad compartida,0.0016140842713782833
+Elchuiuical,Familia y vínculos afectivos,0.0011071428571428573
+Gonzalo Fonseca,Familia y vínculos afectivos,0.002363676088081354
+Gonzalo Goette,Familia y vínculos afectivos,0.0024345047048773332
+Julián Serrano,Familia y vínculos afectivos,0.004202333982742409
+Lionel Ferro,Familia y vínculos afectivos,0.003729970027343379
+Lucas Castel,Familia y vínculos afectivos,0.005301268512575916
+Mariano Bondar,Familia y vínculos afectivos,0.004270819959573581
+Mica Suárez,Familia y vínculos afectivos,0.007328258086054159
+Elchuiuical,Amistad y comunidad,0.006260271267405078
+Gonzalo Fonseca,Amistad y comunidad,0.008118626382150582
+Gonzalo Goette,Amistad y comunidad,0.018462402132657103
+Julián Serrano,Amistad y comunidad,0.009750569487521774
+Lionel Ferro,Amistad y comunidad,0.010957527182539293
+Lucas Castel,Amistad y comunidad,0.010508884023545443
+Mariano Bondar,Amistad y comunidad,0.014892679117820934
+Mica Suárez,Amistad y comunidad,0.014075578615720083
+Elchuiuical,"Amor, pareja y sexualidad",0.0011769143932000323
+Gonzalo Fonseca,"Amor, pareja y sexualidad",0.001868914105594807
+Gonzalo Goette,"Amor, pareja y sexualidad",0.012197489570600479
+Julián Serrano,"Amor, pareja y sexualidad",0.002837973827956301
+Lionel Ferro,"Amor, pareja y sexualidad",0.0035706229611983053
+Lucas Castel,"Amor, pareja y sexualidad",0.0011041117164969278
+Mariano Bondar,"Amor, pareja y sexualidad",0.0023369870314737164
+Mica Suárez,"Amor, pareja y sexualidad",0.003946783475193073
+Elchuiuical,Vida cotidiana,0.006137356932640512
+Gonzalo Fonseca,Vida cotidiana,0.007040152137969546
+Gonzalo Goette,Vida cotidiana,0.005355499952174705
+Julián Serrano,Vida cotidiana,0.008405356389508586
+Lionel Ferro,Vida cotidiana,0.0031404438986324668
+Lucas Castel,Vida cotidiana,0.011205402318166066
+Mariano Bondar,Vida cotidiana,0.009502901563327917
+Mica Suárez,Vida cotidiana,0.009575114266945236
+Elchuiuical,Humor y parodia,0.00025974025974025974
+Gonzalo Fonseca,Humor y parodia,0.008239800959659833
+Gonzalo Goette,Humor y parodia,0.002460278991593971
+Julián Serrano,Humor y parodia,0.003289888474396268
+Lionel Ferro,Humor y parodia,0.0015200029995125794
+Lucas Castel,Humor y parodia,0.001842647613939349
+Mariano Bondar,Humor y parodia,0.0027741548270279804
+Mica Suárez,Humor y parodia,0.0020990943382088027
+Elchuiuical,"Fiesta, salidas y consumo",0.003131359373507081
+Gonzalo Fonseca,"Fiesta, salidas y consumo",0.006017270159726287
+Gonzalo Goette,"Fiesta, salidas y consumo",0.002059940095806104
+Julián Serrano,"Fiesta, salidas y consumo",0.005738911211769728
+Lionel Ferro,"Fiesta, salidas y consumo",0.001187070091908577
+Lucas Castel,"Fiesta, salidas y consumo",0.003957588309856197
+Mariano Bondar,"Fiesta, salidas y consumo",0.002654339432912941
+Mica Suárez,"Fiesta, salidas y consumo",0.003031281943748119
+Elchuiuical,"Escuela, estudios y futuro",0.0016674087406846026
+Gonzalo Fonseca,"Escuela, estudios y futuro",0.00026078167115902963
+Gonzalo Goette,"Escuela, estudios y futuro",0.0009751446691046252
+Julián Serrano,"Escuela, estudios y futuro",0.0033294770891021353
+Lionel Ferro,"Escuela, estudios y futuro",0.00013422818791946307
+Lucas Castel,"Escuela, estudios y futuro",0.0003974832385918542
+Mariano Bondar,"Escuela, estudios y futuro",0.0006959965914257219
+Mica Suárez,"Escuela, estudios y futuro",0.00013986013986013986
+Elchuiuical,Cuerpo e imagen corporal,0.0007152338323815403
+Gonzalo Fonseca,Cuerpo e imagen corporal,0.0007974024012685947
+Gonzalo Goette,Cuerpo e imagen corporal,0.0027138562088216103
+Julián Serrano,Cuerpo e imagen corporal,0.0035437002105738772
+Lionel Ferro,Cuerpo e imagen corporal,0.0008910365475053791
+Lucas Castel,Cuerpo e imagen corporal,0.002628782816265158
+Mariano Bondar,Cuerpo e imagen corporal,0.0022439932373437147
+Mica Suárez,Cuerpo e imagen corporal,0.0021853111810356974
+Elchuiuical,Tecnología y cultura digital,0.01390486562519685
+Gonzalo Fonseca,Tecnología y cultura digital,0.020456857619466216
+Gonzalo Goette,Tecnología y cultura digital,0.008506125304613537
+Julián Serrano,Tecnología y cultura digital,0.0027814101778172043
+Lionel Ferro,Tecnología y cultura digital,0.00894105489750516
+Lucas Castel,Tecnología y cultura digital,0.004622176581673588
+Mariano Bondar,Tecnología y cultura digital,0.00570183793763748
+Mica Suárez,Tecnología y cultura digital,0.012468850220262794
+Elchuiuical,Viajes y experiencias,0.0036366065120602325
+Gonzalo Fonseca,Viajes y experiencias,0.0018668751512521593
+Gonzalo Goette,Viajes y experiencias,0.0020926563045410612
+Julián Serrano,Viajes y experiencias,0.0025571574186608543
+Lionel Ferro,Viajes y experiencias,0.001493651074058158
+Lucas Castel,Viajes y experiencias,0.00846908029304834
+Mariano Bondar,Viajes y experiencias,0.001637946913905754
+Mica Suárez,Viajes y experiencias,0.003793407520701632
+Elchuiuical,Crítica social y conflicto,0.0017234848484848485
+Gonzalo Fonseca,Crítica social y conflicto,0.0004423737047564855
+Julián Serrano,Crítica social y conflicto,0.00034454971529468924
+Lionel Ferro,Crítica social y conflicto,0.0004935611675289442
+Lucas Castel,Crítica social y conflicto,0.00038314176245210724
+Mariano Bondar,Crítica social y conflicto,0.0010165159799301001
+Mica Suárez,Crítica social y conflicto,0.0013738249663328823
+Elchuiuical,"Emociones, motivación y autoayuda",0.0006947715360571751
+Julián Serrano,"Emociones, motivación y autoayuda",0.001280803690023496
+Lionel Ferro,"Emociones, motivación y autoayuda",0.0005133220919878165
+Lucas Castel,"Emociones, motivación y autoayuda",0.00040471785383903796
+Mariano Bondar,"Emociones, motivación y autoayuda",0.00037418147801683815
+Mica Suárez,"Emociones, motivación y autoayuda",0.0010023310023310023
+Elchuiuical,Performance y teatralidad,0.00028571428571428574
+Gonzalo Fonseca,Performance y teatralidad,0.00015479876160990713
+Gonzalo Goette,Performance y teatralidad,0.00010672358591248666
+Julián Serrano,Performance y teatralidad,0.0008968609865470852
+Lucas Castel,Performance y teatralidad,0.00016420361247947455
+Mariano Bondar,Performance y teatralidad,0.0005538972691576498
+Mica Suárez,Performance y teatralidad,0.00042232117613797
+Elchuiuical,"Música, danza y expresión artística",0.007521036308546128
+Gonzalo Fonseca,"Música, danza y expresión artística",0.005549805157944532
+Gonzalo Goette,"Música, danza y expresión artística",0.0011768665323899532
+Julián Serrano,"Música, danza y expresión artística",0.0024042997821341777
+Lionel Ferro,"Música, danza y expresión artística",0.004275726279194014
+Lucas Castel,"Música, danza y expresión artística",0.0027816645590681205
+Mariano Bondar,"Música, danza y expresión artística",0.002807738641807267
+Mica Suárez,"Música, danza y expresión artística",0.0008136146870802207
+Elchuiuical,Glocalidad y referencias culturales,0.0026989535405678375
+Gonzalo Fonseca,Glocalidad y referencias culturales,0.001094971107353888
+Gonzalo Goette,Glocalidad y referencias culturales,0.000676575959318782
+Julián Serrano,Glocalidad y referencias culturales,0.0015344186300807693
+Lionel Ferro,Glocalidad y referencias culturales,0.0018718770281722877
+Lucas Castel,Glocalidad y referencias culturales,0.003959088363148715
+Mariano Bondar,Glocalidad y referencias culturales,0.0014028942759701354
+Mica Suárez,Glocalidad y referencias culturales,0.0018326644174660209
+Elchuiuical,"Lenguaje, dialecto y léxico juvenil",0.007037643408586575
+Gonzalo Fonseca,"Lenguaje, dialecto y léxico juvenil",0.008962746787220713
+Gonzalo Goette,"Lenguaje, dialecto y léxico juvenil",0.03109390411143185
+Julián Serrano,"Lenguaje, dialecto y léxico juvenil",0.006665920501279598
+Lionel Ferro,"Lenguaje, dialecto y léxico juvenil",0.005403146124294033
+Lucas Castel,"Lenguaje, dialecto y léxico juvenil",0.0029736156066368976
+Mariano Bondar,"Lenguaje, dialecto y léxico juvenil",0.013782686187120488
+Mica Suárez,"Lenguaje, dialecto y léxico juvenil",0.005986620738943303
+Identidad y subjetividad,Extimidad e intimidad compartida,0.37803980254286407
+Identidad y subjetividad,Familia y vínculos afectivos,0.1495818044228982
+Identidad y subjetividad,Amistad y comunidad,0.2684561005654683
+Identidad y subjetividad,"Amor, pareja y sexualidad",-0.14510516624715986
+Identidad y subjetividad,"Escuela, estudios y futuro",0.20350932017309112
+Identidad y subjetividad,Tecnología y cultura digital,-0.18683419448338084
+Identidad y subjetividad,Viajes y experiencias,-0.13422779893076833
+Identidad y subjetividad,"Emociones, motivación y autoayuda",0.22570510776976355
+Identidad y subjetividad,Performance y teatralidad,0.11859686357682098
+Identidad y subjetividad,"Música, danza y expresión artística",-0.23648899969099088
+Identidad y subjetividad,Glocalidad y referencias culturales,-0.14784189144231605
+Identidad y subjetividad,"Lenguaje, dialecto y léxico juvenil",-0.19790918566242258
+Extimidad e intimidad compartida,Identidad y subjetividad,0.37803980254286407
+Extimidad e intimidad compartida,Amistad y comunidad,0.15170179701234518
+Extimidad e intimidad compartida,"Fiesta, salidas y consumo",-0.10220045724075519
+Extimidad e intimidad compartida,"Emociones, motivación y autoayuda",0.2655775292702676
+Extimidad e intimidad compartida,Glocalidad y referencias culturales,-0.12373457282496063
+Familia y vínculos afectivos,Identidad y subjetividad,0.1495818044228982
+Familia y vínculos afectivos,Amistad y comunidad,0.19753628620752006
+Familia y vínculos afectivos,Vida cotidiana,0.2984479579867938
+Familia y vínculos afectivos,"Escuela, estudios y futuro",0.39018047667854505
+Familia y vínculos afectivos,Tecnología y cultura digital,-0.15152889301335704
+Familia y vínculos afectivos,"Emociones, motivación y autoayuda",0.12452296724201932
+Familia y vínculos afectivos,"Música, danza y expresión artística",-0.17140348296359198
+Amistad y comunidad,Identidad y subjetividad,0.2684561005654683
+Amistad y comunidad,Extimidad e intimidad compartida,0.15170179701234518
+Amistad y comunidad,Familia y vínculos afectivos,0.19753628620752006
+Amistad y comunidad,"Amor, pareja y sexualidad",0.27958196021555576
+Amistad y comunidad,"Fiesta, salidas y consumo",-0.10073222605465244
+Amistad y comunidad,"Escuela, estudios y futuro",0.10497684804671881
+Amistad y comunidad,Cuerpo e imagen corporal,0.1478013165009651
+Amistad y comunidad,Tecnología y cultura digital,-0.14850957871099418
+Amistad y comunidad,Viajes y experiencias,-0.19249096062433024
+Amistad y comunidad,Crítica social y conflicto,-0.10454266746707887
+Amistad y comunidad,"Emociones, motivación y autoayuda",0.2894540103528377
+Amistad y comunidad,"Música, danza y expresión artística",-0.23268761160871487
+Amistad y comunidad,Glocalidad y referencias culturales,-0.2617446281699052
+Amistad y comunidad,"Lenguaje, dialecto y léxico juvenil",-0.10291090688936848
+"Amor, pareja y sexualidad",Identidad y subjetividad,-0.14510516624715986
+"Amor, pareja y sexualidad",Amistad y comunidad,0.27958196021555576
+"Amor, pareja y sexualidad",Vida cotidiana,-0.12955577594237294
+"Amor, pareja y sexualidad",Cuerpo e imagen corporal,0.1587123954016501
+"Amor, pareja y sexualidad",Crítica social y conflicto,-0.11021333135769376
+"Amor, pareja y sexualidad","Música, danza y expresión artística",-0.11093220932782001
+"Amor, pareja y sexualidad",Glocalidad y referencias culturales,-0.1363744086183461
+Vida cotidiana,Familia y vínculos afectivos,0.2984479579867938
+Vida cotidiana,"Amor, pareja y sexualidad",-0.12955577594237294
+Vida cotidiana,Humor y parodia,-0.10008526703717248
+Vida cotidiana,"Escuela, estudios y futuro",0.18091420098566505
+Vida cotidiana,Tecnología y cultura digital,-0.16979911736380157
+Vida cotidiana,Viajes y experiencias,0.13999229551820405
+Vida cotidiana,"Música, danza y expresión artística",-0.18720598971280752
+Humor y parodia,Vida cotidiana,-0.10008526703717248
+Humor y parodia,"Fiesta, salidas y consumo",0.4587597545249898
+Humor y parodia,Tecnología y cultura digital,-0.14639599770054454
+Humor y parodia,"Música, danza y expresión artística",-0.1238138917792051
+"Fiesta, salidas y consumo",Extimidad e intimidad compartida,-0.10220045724075519
+"Fiesta, salidas y consumo",Amistad y comunidad,-0.10073222605465244
+"Fiesta, salidas y consumo",Humor y parodia,0.4587597545249898
+"Fiesta, salidas y consumo",Cuerpo e imagen corporal,0.18318387191407234
+"Fiesta, salidas y consumo",Crítica social y conflicto,0.1974175658966719
+"Fiesta, salidas y consumo",Performance y teatralidad,0.21794982157111942
+"Escuela, estudios y futuro",Identidad y subjetividad,0.20350932017309112
+"Escuela, estudios y futuro",Familia y vínculos afectivos,0.39018047667854505
+"Escuela, estudios y futuro",Amistad y comunidad,0.10497684804671881
+"Escuela, estudios y futuro",Vida cotidiana,0.18091420098566505
+"Escuela, estudios y futuro",Tecnología y cultura digital,-0.10946341790613201
+"Escuela, estudios y futuro",Viajes y experiencias,-0.11469631749023078
+"Escuela, estudios y futuro","Emociones, motivación y autoayuda",0.17886695210244452
+"Escuela, estudios y futuro",Performance y teatralidad,0.10007787463992208
+"Escuela, estudios y futuro","Música, danza y expresión artística",-0.13448471172043408
+"Escuela, estudios y futuro",Glocalidad y referencias culturales,-0.10442350217867515
+Cuerpo e imagen corporal,Amistad y comunidad,0.1478013165009651
+Cuerpo e imagen corporal,"Amor, pareja y sexualidad",0.1587123954016501
+Cuerpo e imagen corporal,"Fiesta, salidas y consumo",0.18318387191407234
+Cuerpo e imagen corporal,Tecnología y cultura digital,-0.11275034294627295
+Cuerpo e imagen corporal,Crítica social y conflicto,-0.13116160923873987
+Cuerpo e imagen corporal,Performance y teatralidad,0.3530490167630412
+Cuerpo e imagen corporal,"Música, danza y expresión artística",-0.19059954918103683
+Cuerpo e imagen corporal,Glocalidad y referencias culturales,-0.1039084288039922
+Tecnología y cultura digital,Identidad y subjetividad,-0.18683419448338084
+Tecnología y cultura digital,Familia y vínculos afectivos,-0.15152889301335704
+Tecnología y cultura digital,Amistad y comunidad,-0.14850957871099418
+Tecnología y cultura digital,Vida cotidiana,-0.16979911736380157
+Tecnología y cultura digital,Humor y parodia,-0.14639599770054454
+Tecnología y cultura digital,"Escuela, estudios y futuro",-0.10946341790613201
+Tecnología y cultura digital,Cuerpo e imagen corporal,-0.11275034294627295
+Tecnología y cultura digital,Crítica social y conflicto,0.1507187371483289
+Tecnología y cultura digital,"Música, danza y expresión artística",0.5527953171612405
+Viajes y experiencias,Identidad y subjetividad,-0.13422779893076833
+Viajes y experiencias,Amistad y comunidad,-0.19249096062433024
+Viajes y experiencias,Vida cotidiana,0.13999229551820405
+Viajes y experiencias,"Escuela, estudios y futuro",-0.11469631749023078
+Viajes y experiencias,Crítica social y conflicto,0.19692001800054657
+Viajes y experiencias,Performance y teatralidad,-0.10564259825441594
+Viajes y experiencias,Glocalidad y referencias culturales,0.26128924216629035
+Crítica social y conflicto,Amistad y comunidad,-0.10454266746707887
+Crítica social y conflicto,"Amor, pareja y sexualidad",-0.11021333135769376
+Crítica social y conflicto,"Fiesta, salidas y consumo",0.1974175658966719
+Crítica social y conflicto,Cuerpo e imagen corporal,-0.13116160923873987
+Crítica social y conflicto,Tecnología y cultura digital,0.1507187371483289
+Crítica social y conflicto,Viajes y experiencias,0.19692001800054657
+Crítica social y conflicto,"Música, danza y expresión artística",0.414690707853755
+"Emociones, motivación y autoayuda",Identidad y subjetividad,0.22570510776976355
+"Emociones, motivación y autoayuda",Extimidad e intimidad compartida,0.2655775292702676
+"Emociones, motivación y autoayuda",Familia y vínculos afectivos,0.12452296724201932
+"Emociones, motivación y autoayuda",Amistad y comunidad,0.2894540103528377
+"Emociones, motivación y autoayuda","Escuela, estudios y futuro",0.17886695210244452
+"Emociones, motivación y autoayuda",Performance y teatralidad,-0.11048028812107806
+"Emociones, motivación y autoayuda","Música, danza y expresión artística",-0.13875119257888138
+"Emociones, motivación y autoayuda",Glocalidad y referencias culturales,-0.11739764788187931
+Performance y teatralidad,Identidad y subjetividad,0.11859686357682098
+Performance y teatralidad,"Fiesta, salidas y consumo",0.21794982157111942
+Performance y teatralidad,"Escuela, estudios y futuro",0.10007787463992208
+Performance y teatralidad,Cuerpo e imagen corporal,0.3530490167630412
+Performance y teatralidad,Viajes y experiencias,-0.10564259825441594
+Performance y teatralidad,"Emociones, motivación y autoayuda",-0.11048028812107806
+Performance y teatralidad,"Música, danza y expresión artística",-0.12899760847873526
+"Música, danza y expresión artística",Identidad y subjetividad,-0.23648899969099088
+"Música, danza y expresión artística",Familia y vínculos afectivos,-0.17140348296359198
+"Música, danza y expresión artística",Amistad y comunidad,-0.23268761160871487
+"Música, danza y expresión artística","Amor, pareja y sexualidad",-0.11093220932782001
+"Música, danza y expresión artística",Vida cotidiana,-0.18720598971280752
+"Música, danza y expresión artística",Humor y parodia,-0.1238138917792051
+"Música, danza y expresión artística","Escuela, estudios y futuro",-0.13448471172043408
+"Música, danza y expresión artística",Cuerpo e imagen corporal,-0.19059954918103683
+"Música, danza y expresión artística",Tecnología y cultura digital,0.5527953171612405
+"Música, danza y expresión artística",Crítica social y conflicto,0.414690707853755
+"Música, danza y expresión artística","Emociones, motivación y autoayuda",-0.13875119257888138
+"Música, danza y expresión artística",Performance y teatralidad,-0.12899760847873526
+Glocalidad y referencias culturales,Identidad y subjetividad,-0.14784189144231605
+Glocalidad y referencias culturales,Extimidad e intimidad compartida,-0.12373457282496063
+Glocalidad y referencias culturales,Amistad y comunidad,-0.2617446281699052
+Glocalidad y referencias culturales,"Amor, pareja y sexualidad",-0.1363744086183461
+Glocalidad y referencias culturales,"Escuela, estudios y futuro",-0.10442350217867515
+Glocalidad y referencias culturales,Cuerpo e imagen corporal,-0.1039084288039922
+Glocalidad y referencias culturales,Viajes y experiencias,0.26128924216629035
+Glocalidad y referencias culturales,"Emociones, motivación y autoayuda",-0.11739764788187931
+"Lenguaje, dialecto y léxico juvenil",Identidad y subjetividad,-0.19790918566242258
+"Lenguaje, dialecto y léxico juvenil",Amistad y comunidad,-0.10291090688936848
+Elchuiuical,Privado,1.0
+Gonzalo Fonseca,Privado,1.0
+Julián Serrano,Privado,1.0
+Lionel Ferro,Privado,1.0
+Lucas Castel,Privado,1.0
+Mariano Bondar,Privado,1.0
+Mica Suárez,Privado,1.0
+Elchuiuical,Público,1.0
+Gonzalo Fonseca,Público,1.0
+Gonzalo Goette,Público,1.0
+Julián Serrano,Público,1.0
+Lionel Ferro,Público,1.0
+Lucas Castel,Público,1.0
+Mariano Bondar,Público,1.0
+Mica Suárez,Público,1.0
+Elchuiuical,Dormitorio,1.0
+Gonzalo Fonseca,Dormitorio,1.0
+Julián Serrano,Dormitorio,1.0
+Lionel Ferro,Dormitorio,1.0
+Lucas Castel,Dormitorio,1.0
+Mariano Bondar,Dormitorio,1.0
+Mica Suárez,Dormitorio,1.0
+Gonzalo Fonseca,Sala del Hogar,1.0
+Gonzalo Goette,Sala del Hogar,1.0
+Julián Serrano,Sala del Hogar,1.0
+Lionel Ferro,Sala del Hogar,1.0
+Lucas Castel,Sala del Hogar,1.0
+Mariano Bondar,Sala del Hogar,1.0
+Mica Suárez,Sala del Hogar,1.0
+Julián Serrano,Baño,1.0
+Lionel Ferro,Baño,1.0
+Mariano Bondar,Baño,1.0
+Julián Serrano,Exteriores domésticos,1.0
+Lionel Ferro,Exteriores domésticos,1.0
+Lucas Castel,Exteriores domésticos,1.0
+Mariano Bondar,Exteriores domésticos,1.0
+Mica Suárez,Exteriores domésticos,1.0
+Elchuiuical,Exteriores viajes,1.0
+Gonzalo Fonseca,Exteriores viajes,1.0
+Gonzalo Goette,Exteriores viajes,1.0
+Julián Serrano,Exteriores viajes,1.0
+Lionel Ferro,Exteriores viajes,1.0
+Lucas Castel,Exteriores viajes,1.0
+Mariano Bondar,Exteriores viajes,1.0
+Mica Suárez,Exteriores viajes,1.0
+Elchuiuical,Interior,1.0
+Gonzalo Fonseca,Interior,1.0
+Gonzalo Goette,Interior,1.0
+Julián Serrano,Interior,1.0
+Lionel Ferro,Interior,1.0
+Lucas Castel,Interior,1.0
+Mariano Bondar,Interior,1.0
+Mica Suárez,Interior,1.0
+Elchuiuical,Exterior,1.0
+Gonzalo Fonseca,Exterior,1.0
+Gonzalo Goette,Exterior,1.0
+Julián Serrano,Exterior,1.0
+Lionel Ferro,Exterior,1.0
+Lucas Castel,Exterior,1.0
+Mariano Bondar,Exterior,1.0
+Mica Suárez,Exterior,1.0
+Elchuiuical,Sin_remera,1.0
+Julián Serrano,Sin_remera,1.0
+Lionel Ferro,Sin_remera,1.0
+Lucas Castel,Sin_remera,1.0
+Mariano Bondar,Sin_remera,1.0
+Elchuiuical,Con_gorra,1.0
+Gonzalo Fonseca,Con_gorra,1.0
+Lucas Castel,Con_gorra,1.0
+Mica Suárez,Con_gorra,1.0
+Elchuiuical,Accesorios,1.0
+Gonzalo Fonseca,Accesorios,1.0
+Julián Serrano,Accesorios,1.0
+Lionel Ferro,Accesorios,1.0
+Lucas Castel,Accesorios,1.0
+Mariano Bondar,Accesorios,1.0
+Mica Suárez,Accesorios,1.0
+Gonzalo Goette,Ropa_deportiva,1.0
+Julián Serrano,Ropa_deportiva,1.0
+Lionel Ferro,Ropa_deportiva,1.0
+Lucas Castel,Ropa_deportiva,1.0
+Mariano Bondar,Ropa_deportiva,1.0
+Julián Serrano,Cambia_ropa,1.0
+Lionel Ferro,Cambia_ropa,1.0
+Mica Suárez,Cambia_ropa,1.0
+Elchuiuical,Primer Plano,1.0
+Gonzalo Fonseca,Primer Plano,1.0
+Gonzalo Goette,Primer Plano,1.0
+Julián Serrano,Primer Plano,1.0
+Lionel Ferro,Primer Plano,1.0
+Lucas Castel,Primer Plano,1.0
+Mariano Bondar,Primer Plano,1.0
+Mica Suárez,Primer Plano,1.0
+Elchuiuical,Plano general,1.0
+Gonzalo Fonseca,Plano general,1.0
+Gonzalo Goette,Plano general,1.0
+Julián Serrano,Plano general,1.0
+Lionel Ferro,Plano general,1.0
+Lucas Castel,Plano general,1.0
+Mariano Bondar,Plano general,1.0
+Mica Suárez,Plano general,1.0
+Elchuiuical,Primerísimo PP,1.0
+Gonzalo Fonseca,Primerísimo PP,1.0
+Julián Serrano,Primerísimo PP,1.0
+Lionel Ferro,Primerísimo PP,1.0
+Lucas Castel,Primerísimo PP,1.0
+Mariano Bondar,Primerísimo PP,1.0
+Mica Suárez,Primerísimo PP,1.0
+Elchuiuical,Plano detalle,1.0
+Gonzalo Fonseca,Picado,1.0
+Gonzalo Goette,Picado,1.0
+Julián Serrano,Picado,1.0
+Lionel Ferro,Picado,1.0
+Gonzalo Fonseca,Contrapicado,1.0
+Elchuiuical,Música de fondo,1.0
+Gonzalo Fonseca,Música de fondo,1.0
+Gonzalo Goette,Música de fondo,1.0
+Julián Serrano,Música de fondo,1.0
+Lionel Ferro,Música de fondo,1.0
+Lucas Castel,Música de fondo,1.0
+Mariano Bondar,Música de fondo,1.0
+Mica Suárez,Música de fondo,1.0
+Elchuiuical,Audios enlatados,1.0
+Gonzalo Fonseca,Audios enlatados,1.0
+Gonzalo Goette,Audios enlatados,1.0
+Julián Serrano,Audios enlatados,1.0
+Lionel Ferro,Audios enlatados,1.0
+Lucas Castel,Audios enlatados,1.0
+Mica Suárez,Audios enlatados,1.0
+Elchuiuical,Clips insertados,1.0
+Gonzalo Fonseca,Clips insertados,1.0
+Gonzalo Goette,Clips insertados,1.0
+Julián Serrano,Clips insertados,1.0
+Lionel Ferro,Clips insertados,1.0
+Lucas Castel,Clips insertados,1.0
+Mariano Bondar,Clips insertados,1.0
+Mica Suárez,Clips insertados,1.0
+Elchuiuical,Silencio,1.0
+Gonzalo Fonseca,Silencio,1.0
+Gonzalo Goette,Silencio,1.0
+Mariano Bondar,Silencio,1.0
+Elchuiuical,Audio original,1.0
+Gonzalo Fonseca,Audio original,1.0
+Gonzalo Fonseca,Acompaña el relato,1.0
+Julián Serrano,Acompaña el relato,1.0
+Lucas Castel,Acompaña el relato,1.0
+Mariano Bondar,Acompaña el relato,1.0
+Mica Suárez,Acompaña el relato,1.0
+Elchuiuical,Expresividad facial,1.0
+Gonzalo Fonseca,Expresividad facial,1.0
+Gonzalo Goette,Expresividad facial,1.0
+Julián Serrano,Expresividad facial,1.0
+Lionel Ferro,Expresividad facial,1.0
+Lucas Castel,Expresividad facial,1.0
+Mariano Bondar,Expresividad facial,1.0
+Mica Suárez,Expresividad facial,1.0
+Elchuiuical,Gestos con manos,1.0
+Gonzalo Fonseca,Gestos con manos,1.0
+Gonzalo Goette,Gestos con manos,1.0
+Lionel Ferro,Gestos con manos,1.0
+Mica Suárez,Gestos con manos,1.0
+Elchuiuical,Corporalidad destacada,1.0
+Gonzalo Goette,Corporalidad destacada,1.0
+Julián Serrano,Corporalidad destacada,1.0
+Lionel Ferro,Corporalidad destacada,1.0
+Lucas Castel,Corporalidad destacada,1.0
+Mica Suárez,Corporalidad destacada,1.0
+Lionel Ferro,Beboteo o coquetería,1.0
+Elchuiuical,Violencia o agresividad,1.0
+Gonzalo Goette,Violencia o agresividad,1.0
+Lionel Ferro,Violencia o agresividad,1.0
+Gonzalo Fonseca,Estado emocional alterado,1.0
+Gonzalo Goette,Estado emocional alterado,1.0
+Julián Serrano,Estado emocional alterado,1.0
+Lionel Ferro,Estado emocional alterado,1.0
+Lucas Castel,Estado emocional alterado,1.0
+Mariano Bondar,Estado emocional alterado,1.0
+Lionel Ferro,Cercanía o contacto físico,1.0
+Lucas Castel,Cercanía o contacto físico,1.0
+Mica Suárez,Cercanía o contacto físico,1.0
+Identidad y subjetividad,Sala del Hogar,0.2921237169017393
+Identidad y subjetividad,Exteriores viajes,-0.22169901979103523
+Identidad y subjetividad,Interior,0.33520018498169263
+Identidad y subjetividad,Exterior,-0.18302850008961943
+Identidad y subjetividad,Sin_remera,0.10278820575032128
+Identidad y subjetividad,Con_gorra,-0.11302814759826922
+Identidad y subjetividad,Accesorios,0.25738042180089776
+Identidad y subjetividad,Cambia_ropa,0.15320988733761468
+Identidad y subjetividad,Plano general,-0.1945195541719522
+Identidad y subjetividad,Primerísimo PP,0.15626909283138699
+Identidad y subjetividad,Picado,0.14738795444391875
+Identidad y subjetividad,Audios enlatados,-0.15764851283830464
+Identidad y subjetividad,Silencio,0.3611312606636486
+Identidad y subjetividad,Audio original,-0.12416339628582525
+Identidad y subjetividad,Expresividad facial,0.12416775149426003
+Identidad y subjetividad,Gestos con manos,0.3172823642238238
+Identidad y subjetividad,Violencia o agresividad,-0.1557245361712449
+Extimidad e intimidad compartida,Privado,-0.14952587686753252
+Extimidad e intimidad compartida,Público,0.1176406684443869
+Extimidad e intimidad compartida,Dormitorio,-0.12894630122037926
+Extimidad e intimidad compartida,Sala del Hogar,0.1962605281473127
+Extimidad e intimidad compartida,Exteriores viajes,-0.10995366649244176
+Extimidad e intimidad compartida,Accesorios,0.30276130496984993
+Extimidad e intimidad compartida,Plano general,-0.20341389441599877
+Extimidad e intimidad compartida,Primerísimo PP,0.1738594400736776
+Extimidad e intimidad compartida,Acompaña el relato,0.22473615262635807
+Familia y vínculos afectivos,Público,0.11595771615349558
+Familia y vínculos afectivos,Sala del Hogar,0.29585215777468593
+Familia y vínculos afectivos,Exteriores viajes,-0.24246681739228546
+Familia y vínculos afectivos,Interior,0.21760470057616696
+Familia y vínculos afectivos,Exterior,-0.20892503810648175
+Familia y vínculos afectivos,Sin_remera,-0.14979719315597953
+Familia y vínculos afectivos,Plano general,-0.10561447728633971
+Familia y vínculos afectivos,Primerísimo PP,0.2771726357889221
+Familia y vínculos afectivos,Picado,0.199286348635097
+Familia y vínculos afectivos,Silencio,0.10617392333555659
+Familia y vínculos afectivos,Acompaña el relato,-0.1254779804624038
+Familia y vínculos afectivos,Estado emocional alterado,0.14672635864926217
+Amistad y comunidad,Privado,-0.19660261738789114
+Amistad y comunidad,Público,0.1436431176839662
+Amistad y comunidad,Dormitorio,-0.21111466228338924
+Amistad y comunidad,Sala del Hogar,0.13993818081780238
+Amistad y comunidad,Exteriores domésticos,-0.1105377168314081
+Amistad y comunidad,Sin_remera,-0.21046385575759433
+Amistad y comunidad,Ropa_deportiva,0.10045989270061577
+Amistad y comunidad,Cambia_ropa,-0.21614240555914566
+Amistad y comunidad,Primer Plano,-0.14555140848808565
+Amistad y comunidad,Plano detalle,0.1431783769754119
+Amistad y comunidad,Picado,0.20788875214117947
+Amistad y comunidad,Música de fondo,-0.11147133218795523
+Amistad y comunidad,Clips insertados,-0.23842729179944777
+Amistad y comunidad,Silencio,0.15561637914116588
+Amistad y comunidad,Expresividad facial,0.32552505625218686
+Amistad y comunidad,Corporalidad destacada,-0.1194263353583998
+Amistad y comunidad,Violencia o agresividad,-0.10518553091291206
+"Amor, pareja y sexualidad",Privado,-0.12910529146636038
+"Amor, pareja y sexualidad",Dormitorio,-0.1528192411639802
+"Amor, pareja y sexualidad",Sala del Hogar,-0.14117320219328122
+"Amor, pareja y sexualidad",Exteriores domésticos,-0.10710062797315546
+"Amor, pareja y sexualidad",Exteriores viajes,0.23507017721445217
+"Amor, pareja y sexualidad",Interior,-0.28050548259542296
+"Amor, pareja y sexualidad",Exterior,0.1707405288697525
+"Amor, pareja y sexualidad",Con_gorra,-0.14425274840382857
+"Amor, pareja y sexualidad",Accesorios,-0.15058669967919383
+"Amor, pareja y sexualidad",Ropa_deportiva,0.1609648893493523
+"Amor, pareja y sexualidad",Cambia_ropa,-0.10429059697317894
+"Amor, pareja y sexualidad",Primer Plano,-0.3703689144154722
+"Amor, pareja y sexualidad",Plano general,0.10286735176181976
+"Amor, pareja y sexualidad",Contrapicado,0.1659524036967936
+"Amor, pareja y sexualidad",Acompaña el relato,-0.15272556610883492
+"Amor, pareja y sexualidad",Corporalidad destacada,0.268863123862208
+"Amor, pareja y sexualidad",Beboteo o coquetería,0.16628415199161073
+"Amor, pareja y sexualidad",Estado emocional alterado,-0.10404254807172861
+"Amor, pareja y sexualidad",Cercanía o contacto físico,0.10093055380611976
+Vida cotidiana,Privado,0.19679434720390174
+Vida cotidiana,Dormitorio,0.2053770693673877
+Vida cotidiana,Sala del Hogar,0.15358916170316833
+Vida cotidiana,Baño,0.14205599159963045
+Vida cotidiana,Exteriores viajes,-0.20974307440557607
+Vida cotidiana,Interior,0.18914986008034487
+Vida cotidiana,Exterior,-0.14147210932865767
+Vida cotidiana,Primer Plano,0.2133791967235406
+Vida cotidiana,Plano general,-0.23838327757131608
+Vida cotidiana,Plano detalle,0.1068388413552573
+Vida cotidiana,Acompaña el relato,0.19049734044823424
+Vida cotidiana,Violencia o agresividad,-0.17200026105900904
+Humor y parodia,Público,-0.12056276581853993
+Humor y parodia,Plano general,-0.1292832069747675
+Humor y parodia,Audios enlatados,-0.2497788843182145
+Humor y parodia,Acompaña el relato,0.10241917180956252
+Humor y parodia,Violencia o agresividad,-0.13823222829208404
+Humor y parodia,Estado emocional alterado,0.11996094264405975
+"Fiesta, salidas y consumo",Público,-0.11981276848923107
+"Fiesta, salidas y consumo",Sala del Hogar,-0.16882254609928196
+"Fiesta, salidas y consumo",Exteriores viajes,0.10884869935037364
+"Fiesta, salidas y consumo",Sin_remera,0.14222388173052836
+"Fiesta, salidas y consumo",Con_gorra,-0.19444666296716656
+"Fiesta, salidas y consumo",Primer Plano,0.11981304375532259
+"Fiesta, salidas y consumo",Picado,-0.10101252267906469
+"Fiesta, salidas y consumo",Audio original,-0.10348477645395215
+"Escuela, estudios y futuro",Privado,-0.11334766640227957
+"Escuela, estudios y futuro",Sala del Hogar,0.2867215399179423
+"Escuela, estudios y futuro",Exteriores viajes,-0.22667096336018136
+"Escuela, estudios y futuro",Interior,0.26622628077019983
+"Escuela, estudios y futuro",Exterior,-0.1621503460946286
+"Escuela, estudios y futuro",Sin_remera,-0.14671796018263242
+"Escuela, estudios y futuro",Accesorios,0.13766670779769566
+"Escuela, estudios y futuro",Cambia_ropa,-0.10237419104421809
+"Escuela, estudios y futuro",Plano general,-0.38799166782951133
+"Escuela, estudios y futuro",Plano detalle,0.23014194853887696
+"Escuela, estudios y futuro",Picado,0.22097447957617972
+"Escuela, estudios y futuro",Audios enlatados,-0.1138716165776648
+Cuerpo e imagen corporal,Privado,-0.13742066325294938
+Cuerpo e imagen corporal,Dormitorio,-0.12692278778988766
+Cuerpo e imagen corporal,Exteriores viajes,0.12016313873575188
+Cuerpo e imagen corporal,Sin_remera,0.12893536724845983
+Cuerpo e imagen corporal,Con_gorra,-0.1296568038304974
+Cuerpo e imagen corporal,Ropa_deportiva,0.13006832326480683
+Cuerpo e imagen corporal,Cambia_ropa,-0.12254898059921931
+Cuerpo e imagen corporal,Contrapicado,0.1174606411367359
+Cuerpo e imagen corporal,Música de fondo,-0.10872428106162828
+Cuerpo e imagen corporal,Clips insertados,0.2187951882360015
+Cuerpo e imagen corporal,Acompaña el relato,0.10869075250456384
+Tecnología y cultura digital,Privado,0.1144466542704921
+Tecnología y cultura digital,Público,-0.13366393674274785
+Tecnología y cultura digital,Dormitorio,0.13234501541848953
+Tecnología y cultura digital,Sala del Hogar,-0.149966714863764
+Tecnología y cultura digital,Plano general,0.19901809971183843
+Tecnología y cultura digital,Música de fondo,0.14045274167351438
+Tecnología y cultura digital,Silencio,-0.1048779968585564
+Tecnología y cultura digital,Acompaña el relato,-0.10795339905838522
+Tecnología y cultura digital,Violencia o agresividad,0.11901790013233048
+Viajes y experiencias,Público,0.13351494565569272
+Viajes y experiencias,Sala del Hogar,-0.23613641024775595
+Viajes y experiencias,Exteriores viajes,0.3362931265607773
+Viajes y experiencias,Interior,-0.25209683910943925
+Viajes y experiencias,Exterior,0.28566210405043035
+Viajes y experiencias,Sin_remera,0.20899315057122342
+Viajes y experiencias,Con_gorra,-0.10059082292098645
+Viajes y experiencias,Cambia_ropa,0.14001541393665903
+Viajes y experiencias,Primer Plano,0.10915460476651391
+Viajes y experiencias,Plano general,0.21706844666187858
+Viajes y experiencias,Música de fondo,0.1270561443171687
+Viajes y experiencias,Clips insertados,0.16267905964304313
+Viajes y experiencias,Silencio,-0.13946798679428965
+Viajes y experiencias,Violencia o agresividad,0.19043627053062884
+Viajes y experiencias,Cercanía o contacto físico,0.2240735809364021
+Crítica social y conflicto,Exteriores domésticos,0.10684763071734439
+Crítica social y conflicto,Interior,-0.12192852113320835
+Crítica social y conflicto,Exterior,0.1554252485772999
+Crítica social y conflicto,Sin_remera,0.28455591911761235
+Crítica social y conflicto,Primer Plano,0.16221451208066384
+Crítica social y conflicto,Audios enlatados,0.13505445464196805
+Crítica social y conflicto,Corporalidad destacada,-0.10676828532803487
+Crítica social y conflicto,Violencia o agresividad,0.435656341942967
+"Emociones, motivación y autoayuda",Público,-0.11737700397283939
+"Emociones, motivación y autoayuda",Sala del Hogar,0.10786900706301038
+"Emociones, motivación y autoayuda",Exteriores viajes,-0.24889899618095634
+"Emociones, motivación y autoayuda",Interior,0.2061387442106359
+"Emociones, motivación y autoayuda",Exterior,-0.22105154061821292
+"Emociones, motivación y autoayuda",Con_gorra,0.2272072149295517
+"Emociones, motivación y autoayuda",Accesorios,0.13571531789424726
+"Emociones, motivación y autoayuda",Primerísimo PP,0.14953117289976664
+"Emociones, motivación y autoayuda",Plano detalle,0.18491591537639804
+"Emociones, motivación y autoayuda",Música de fondo,0.11411520850935858
+"Emociones, motivación y autoayuda",Expresividad facial,0.1532929934728916
+Performance y teatralidad,Sala del Hogar,0.17750559399782692
+Performance y teatralidad,Exteriores domésticos,0.21353076217443406
+Performance y teatralidad,Interior,0.15918797340427146
+Performance y teatralidad,Exterior,0.17121446072916657
+Performance y teatralidad,Plano general,0.13715140186472025
+Performance y teatralidad,Primerísimo PP,0.10107489779671743
+Performance y teatralidad,Audios enlatados,-0.13395342306419936
+Performance y teatralidad,Audio original,0.18671352611927922
+"Música, danza y expresión artística",Sala del Hogar,-0.12843748950070508
+"Música, danza y expresión artística",Exteriores domésticos,-0.13266609454124886
+"Música, danza y expresión artística",Ropa_deportiva,0.10046525551801501
+"Música, danza y expresión artística",Plano general,0.11665696905438896
+"Música, danza y expresión artística",Primerísimo PP,-0.1384176229925956
+"Música, danza y expresión artística",Picado,-0.1236648409750243
+"Música, danza y expresión artística",Clips insertados,0.11696936940306793
+"Música, danza y expresión artística",Audio original,0.10019561708426242
+"Música, danza y expresión artística",Expresividad facial,-0.10116453942926025
+"Música, danza y expresión artística",Gestos con manos,-0.11115721262430649
+"Música, danza y expresión artística",Violencia o agresividad,0.2305139229810346
+Glocalidad y referencias culturales,Sala del Hogar,-0.1689946025429815
+Glocalidad y referencias culturales,Baño,0.11831328178874453
+Glocalidad y referencias culturales,Exteriores domésticos,-0.15683274583966522
+Glocalidad y referencias culturales,Exteriores viajes,0.14373857667741466
+Glocalidad y referencias culturales,Interior,-0.16572220818847958
+Glocalidad y referencias culturales,Sin_remera,-0.12327805901554519
+Glocalidad y referencias culturales,Cambia_ropa,0.18153425953024765
+Glocalidad y referencias culturales,Audios enlatados,0.15918744212957267
+Glocalidad y referencias culturales,Silencio,-0.15675375129275337
+Glocalidad y referencias culturales,Corporalidad destacada,0.17658539705565485
+Glocalidad y referencias culturales,Violencia o agresividad,0.18361310211176235
+Glocalidad y referencias culturales,Cercanía o contacto físico,0.3655126155264748
+"Lenguaje, dialecto y léxico juvenil",Privado,-0.1266824455646052
+"Lenguaje, dialecto y léxico juvenil",Dormitorio,-0.12249520062892678
+"Lenguaje, dialecto y léxico juvenil",Sala del Hogar,0.11509287947330445
+"Lenguaje, dialecto y léxico juvenil",Ropa_deportiva,0.2534434827710522
+"Lenguaje, dialecto y léxico juvenil",Primer Plano,-0.26875611932029114
+"Lenguaje, dialecto y léxico juvenil",Plano general,0.10492085121821004
+"Lenguaje, dialecto y léxico juvenil",Música de fondo,-0.2684541110930083
+"Lenguaje, dialecto y léxico juvenil",Audios enlatados,0.12036176322786336
+"Lenguaje, dialecto y léxico juvenil",Clips insertados,-0.13966266827604534
+"Lenguaje, dialecto y léxico juvenil",Expresividad facial,-0.13315025214790166
+"Lenguaje, dialecto y léxico juvenil",Violencia o agresividad,0.5610032798360371

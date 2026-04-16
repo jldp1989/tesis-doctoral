@@ -1,0 +1,84 @@
+# Anexo G: Modelado de tópicos — resultados explorativos {.unnumbered}
+
+Este anexo documenta los resultados del modelado de tópicos (LDA) aplicado al corpus completo de transcripciones. Se trata de una etapa **exploratoria y heurística** del proceso de investigación: los tópicos latentes no reemplazaron la codificación manual sino que operaron como andamio para orientar la construcción del codebook temático.
+
+::: {.content-visible when-format="pdf"}
+::: {.callout-note}
+## Resultados disponibles en la versión web
+
+Los resultados completos del modelado de tópicos, incluyendo las palabras clave por tópico, la distribución por youtuber y el script Python utilizado, están disponibles en la versión web de esta tesis (Anexo G) y en la carpeta `materiales/scripts/topic_modeling.py` del repositorio.
+:::
+:::
+
+::: {.content-visible when-format="html"}
+
+## Procedimiento
+
+Se aplicó el algoritmo de **Asignación Latente de Dirichlet** (*Latent Dirichlet Allocation*, LDA) [@blei2003] sobre el corpus completo de 80 transcripciones limpias. El preprocesamiento consistió en:
+
+1. Eliminación de marcas temporales y etiquetas de hablante.
+2. Conversión a minúsculas y eliminación de puntuación.
+3. Filtrado mediante lista de *stopwords* personalizada para el español coloquial rioplatense (muletillas, interjecciones, marcadores de oralidad de alta frecuencia como *dale*, *boludo*, *eh*).
+4. Vectorización mediante Bolsa de Palabras (*CountVectorizer*): vocabulario limitado a los 600 términos más informativos (frecuencia mínima: 4 documentos; frecuencia máxima: 80% de los documentos).
+
+El modelo se configuró con **10 tópicos** y estado aleatorio fijo (seed 42) para garantizar la reproducibilidad. El script completo está disponible en [`materiales/scripts/topic_modeling.py`](materiales/scripts/topic_modeling.py).
+
+---
+
+## Tópicos latentes identificados
+
+Los 10 tópicos emergentes del algoritmo, con sus palabras clave y la etiqueta interpretativa asignada por el investigador:
+
+| Tópico | Etiqueta interpretativa | Palabras clave principales |
+|:--:|:--|:--|
+| T1 | Marcos culturales y referencias globales | *dinero, miedo, música, vida, you, justin, mayor, quizás* |
+| T2 | Humor, transgresión y cuerpo | *pedo, vida, hablar, veces, puedo, años, mierda, tomar, tienen* |
+| T3 | Juegos, retos y performance colaborativa | *papel, tijera, piedra, beso, reto, hermanito, cuál, dar, dos* |
+| T4 | Interacción con la audiencia (Q&A) | *pregunta, preguntas, cuál, raro, youtuber, amigo, chica, dice* |
+| T5 | Viajes, aventura y dinero | *hotel, plata, youtubers, resulta, pagar, estábamos, uruguay, teníamos* |
+| T6 | Amistad, cotidianidad y grupo de pares | *personas, amigo, viste, vida, mejor, cuenta, tiempo, mismo* |
+| T7 | Emociones, vulnerabilidad y reflexión | *hoy, chicle, mira, pelo, momento, haciendo, re, puedo* |
+| T8 | Memoria, gustos y autobiografía | *acuerdo, primera, encanta, mismo, gustaba, sabía, hora, menos* |
+| T9 | Localidad, Argentina e identidad territorial | *argentina, re, tenemos, horas, lucas, justo, pedo, haciendo* |
+| T10 | Gustos personales, cultura pop e identidad | *celular, lugar, papá, vieron, poner, mentira, saludos, miren* |
+
+: Tópicos latentes identificados mediante LDA (10 tópicos, 80 documentos, vocabulario 600 términos). La etiqueta es interpretativa y fue asignada a posteriori por el investigador contrastando las palabras clave con la lectura directa del corpus. {#tbl-lda-topicos}
+
+---
+
+## Distribución por youtuber
+
+Proporción de cada tópico en la producción de cada youtuber (tres tópicos dominantes):
+
+| Youtuber | Tópico 1 (%) | Tópico 2 (%) | Tópico 3 (%) |
+|:--|:--|:--|:--|
+| **Lucas Castel** | T7 Emociones/reflexión (27%) | T9 Localidad/Argentina (14%) | T6 Amistad/cotidianidad (13%) |
+| **Julián Serrano** | T7 Emociones/reflexión (25%) | T2 Humor/transgresión (24%) | T9 Localidad (14%) |
+| **Gonzalo Fonseca** | T2 Humor/transgresión (29%) | T9 Localidad (19%) | T5 Viajes/aventura (13%) |
+| **Lionel Ferro** | T3 Juegos/retos (29%) | T7 Emociones/reflexión (23%) | T10 Gustos/cultura pop (15%) |
+| **Mariano Bondar** | T9 Localidad (33%) | T6 Amistad/cotidianidad (31%) | T2 Humor/transgresión (16%) |
+| **Gonzalo Goette** | T3 Juegos/retos (25%) | T4 Interacción/Q&A (25%) | T5 Viajes/aventura (17%) |
+| **Elchuiuical** | T6 Amistad/cotidianidad (26%) | T1 Referencias globales (18%) | T2 Humor/transgresión (16%) |
+| **Mica Suárez** | T10 Gustos/cultura pop (31%) | T7 Emociones/reflexión (20%) | T9 Localidad (13%) |
+
+: Distribución de los tópicos LDA por youtuber. Los porcentajes representan la proporción promedio de cada tópico sobre el total de videos del canal. {#tbl-lda-autores}
+
+---
+
+## Correspondencia con las categorías temáticas del codebook
+
+El modelado de tópicos reveló agrupamientos que, en términos generales, resultaron coherentes con las 18 categorías temáticas construidas manualmente durante la codificación. La correspondencia no es isomórfica —los tópicos LDA son menos específicos que las categorías teóricas— pero orientó el proceso en tres sentidos:
+
+1. **Validación de categorías previstas:** los tópicos T7 (emociones/vulnerabilidad) y T6 (amistad/cotidianidad) confirmaron la relevancia de las categorías *Emociones, motivación y autoayuda* y *Amistad y comunidad* que ya estaban previstas en el marco teórico.
+
+2. **Emergencia de categorías no anticipadas:** el tópico T9 (localidad/Argentina) y el T10 (gustos/cultura pop) reforzaron la decisión de incorporar las categorías *Glocalidad y referencias culturales* e *Identidad y subjetividad* como categorías inductivas del codebook.
+
+3. **Diferenciación de perfiles:** la distribución por youtuber anticipó los perfiles que luego el análisis cualitativo confirmaría. La alta proporción de T9 en Bondar (33%) y Fonseca (19%) anticipa su arraigo local; la predominancia de T3 en Ferro (29%) anticipa su orientación hacia la performance y el entretenimiento.
+
+---
+
+## Limitaciones del análisis
+
+El LDA es sensible a la calidad del preprocesamiento y al número de tópicos elegido. Un corpus oral y coloquial como el de este trabajo presenta desafíos específicos: alta frecuencia de muletillas y marcadores del discurso que contaminan los tópicos, co-referencia implícita, y fenómenos pragmáticos que el modelo no puede capturar. Por estas razones, los resultados se emplearon exclusivamente como orientación heurística y no como categorías analíticas en sí mismas. Toda interpretación temática final descansa en la codificación manual y en el análisis cualitativo del corpus.
+
+:::

@@ -1,0 +1,7 @@
+---
+title: "Anexo B: Glosario de términos"
+---
+
+A continuación se presentan las definiciones de los términos técnicos y neologismos utilizados a lo largo de la tesis. En la versión web, estos términos también están disponibles como *tooltips* al pasar el cursor sobre las palabras resaltadas en el texto.
+
+{{< glossary table=true >}}

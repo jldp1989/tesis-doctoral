@@ -1,0 +1,230 @@
+# Prácticas sociolingüísticas en el videoblog: variación dialectal y registro pragmático-discursivo
+
+## Introducción
+
+El videoblog como género ciberdiscursivo plantea interrogantes específicos desde la sociolingüística: ¿cómo se manifiesta la variación dialectal del español en un espacio digital transnacional? ¿Los youtubers conservan rasgos de sus variedades regionales o tienden a neutralizarlos? ¿Existe algo así como una "variedad web" del español o simplemente asistimos a la emergencia de un registro pragmático propio del género?
+
+Estas preguntas cobran particular relevancia en el caso argentino, donde conviven múltiples variedades sub-nacionales del español —noroandino, litoral, cuyano, patagónico, rioplatense—, cada una con rasgos fonético-fonológicos, morfosintácticos y léxicos distintivos [@vidal1964; @fontanella2004]. Sin embargo, la producción de contenido en YouTube impone condiciones específicas: los creadores buscan maximizar su alcance, construir audiencias transnacionales y participar de comunidades de práctica que trascienden fronteras geográficas. Esto genera tensiones entre la autenticidad local —mostrar "quién soy realmente"— y la proyección global —ser entendido y valorado por audiencias diversas.
+
+Los estudios previos sobre lenguaje en internet han oscilado entre posiciones maximalistas, que postulan la existencia de nuevas "variedades digitales" [@crystal2002], y enfoques más cautelosos que señalan que las particularidades observadas responden más a registros situados que a variedades lingüísticas autónomas [@androutsopoulos2013; @cerruti2013]. En el caso del español, trabajos como los de @alcantara2016 sobre neologismos tecnológicos, @giammatteo2012 sobre léxico digital, y @palazzo2010a y @palazzo2010b sobre ciberdiscurso juvenil, han documentado fenómenos específicos sin llegar a postular la existencia de una "variedad web" consolidada.
+
+Nuestra posición es moderada y empíricamente fundada: no existe una "variedad web" autónoma del español, pero los youtubers desarrollan un registro pragmático-discursivo específico del género vlog, con estrategias de nivelación dialectal motivadas por la búsqueda de alcance transnacional. Este registro se caracteriza por cinco rasgos: (1) tendencia a la neutralización de rasgos dialectales marcados, especialmente fonético-fonológicos; (2) conservación selectiva de marcas identitarias locales, principalmente léxico y referencias culturales; (3) emergencia de léxico específico relacionado con la plataforma y las prácticas de comunidad; (4) ritualización de actos de habla propios del género; y (5) estrategias de cortesía y anticortesía vinculadas al ciberdiscurso juvenil.
+
+## Marco conceptual
+
+### Variación lingüística y variedades del español argentino
+
+La sociolingüística contemporánea distingue entre variedad lingüística —configuración estable de rasgos en todos los niveles del sistema que caracteriza a una comunidad de hablantes— y registro —selección de rasgos motivada por la situación comunicativa, el canal y las relaciones entre interlocutores [@halliday1978; @moreno1999]. Esta distinción es crucial para analizar las prácticas lingüísticas en YouTube: ¿los youtubers "hablan en internet" como hablan una variedad dialectal, o más bien seleccionan recursos según el contexto comunicativo del vlog?
+
+El español de Argentina es una lengua policéntrica [@schneider2008] con múltiples variedades sub-nacionales. @fontanella2004 identifica cinco grandes regiones dialectales: (1) Noroeste, (2) Noreste/Litoral, (3) Cuyo, (4) Patagonia, y (5) Región Pampeana/Rioplatense. De estas, la variedad rioplatense —especialmente en su forma bonaerense— funciona como estándar de facto en medios masivos, entretenimiento y comunicación transnacional, asociada a prestigio y modernidad urbana.
+
+**La variedad rioplatense (Buenos Aires)** se caracteriza por yeísmo rehilado ([ʒ] o [ʃ]), aspiración moderada o ausencia de aspiración de /s/ final, entonación con tonemas ascendentes en declarativas, voseo pronominal y verbal (*vos tenés*), y léxico porteño (*bondi*, *laburo*, *pibe*). **La variedad del Litoral (Entre Ríos)** es zona de transición: yeísmo rehilado, pero menos marcado que en Buenos Aires, aspiración de /s/ final más frecuente, entonación más pausada. **La variedad de Cuyo/Centro (Córdoba)** se caracteriza por entonación muy marcada con alargamiento de vocales tónicas, aspiración fuerte de /s/ implosiva ([h]), yeísmo, pero no rehilado, y léxico regional distintivo (*cuarteto*, *fernet*, *culiau*). La variedad cordobesa es altamente reconocible en Argentina y objeto de representaciones culturales estereotipadas. La pregunta que atraviesa este capítulo es: ¿qué hacen los youtubers no-bonaerenses con estas marcas dialectales al insertarse en un espacio digital transnacional?
+
+### Nivelación dialectal
+
+@trudgill2007 definen la nivelación dialectal como el proceso por el que "un número de formas variantes fonético-fonológicas, léxicas o gramaticales que están presentes en la mixtura dialectal se reducen a uno menor, como consecuencia de la fijación, de forma que los dialectos o acentos implicados en la mixtura pierden sus rasgos distintivos y se hacen cada vez más similares" (p. 234). Documentado en contextos de migración y contacto dialectal intenso, este proceso también puede darse en espacios digitales donde hablantes de diferentes variedades interactúan constantemente. La nivelación no es automática ni neutral: responde a valoraciones sociales sobre prestigio, inteligibilidad y pertenencia. Como señala @fasold1996, los hablantes desarrollan actitudes de lealtad o deslealtad lingüística que motivan decisiones de mantenimiento o cambio de variedad.
+
+En el caso de YouTube hispanohablante, la nivelación hacia variedades de mayor alcance se ve reforzada por factores materiales de la plataforma: los algoritmos premian el alcance transnacional, las métricas valoran audiencias amplias, y las estrategias de monetización favorecen contenidos "universalizables". Los youtubers enfrentan una tensión: conservar rasgos locales puede limitar audiencia, pero aumenta autenticidad; neutralizar puede ampliar alcance, pero genera acusaciones de "vendido" o "falso".
+
+### Del netspeak al registro pragmático-discursivo
+
+@crystal2002 acuñó el término *netspeak* para referirse a las formas lingüísticas emergentes en internet, postulando que constituirían una "nueva variedad" del lenguaje. Sin embargo, esta tesis ha sido ampliamente cuestionada. @cerruti2013 argumentan que los rasgos observados en comunicación digital —abreviaturas, emoticones, léxico específico— no configuran una variedad autónoma porque no presentan gramática distintiva, no poseen fonología propia, el léxico especializado es limitado y específico de contextos, y los rasgos no son estables, sino altamente dependientes de plataforma y género.
+
+@thurlow2011 ofrece una perspectiva alternativa más productiva: en lugar de "variedades digitales", deberíamos hablar de creatividad lingüística juvenil situada en contextos tecnológicos. Los jóvenes no "hablan internet"; despliegan recursos expresivos adaptados a las *affordances* de cada plataforma y género. Esta perspectiva conecta con el concepto de ciberdiscurso juvenil de @palazzo2010a, quien señala que "para los jóvenes, la adecuación y la coherencia no dependen del ajuste a normas prescriptivas, ya que se privilegia lo comunicativo en el sentido de conexión, interacción, acercamiento e intersubjetividad en un marco que recupera los aspectos lúdicos del intercambio verbal".
+
+Desde esta perspectiva, proponemos entender las prácticas lingüísticas en vlogs como un registro pragmático-discursivo: una configuración de rasgos lingüísticos motivada por su campo (narrativas identitarias, extimidad, vida cotidiana juvenil), su tenor (vínculo parasocial asimétrico, pero íntimo con audiencia) y su modo (comunicación multimodal, audiovisual, diferida, pero conversacional). Este registro comparte rasgos con otros géneros juveniles —conversación entre amigos, relatos personales— pero incorpora elementos específicos de la plataforma: léxico técnico, rituales de comunidad, llamados a la acción.
+
+### Glocalidad lingüística en espacios digitales
+
+El concepto de glocalidad [@robertson1995; @feixa2006; @garciacanclini1995] resulta fundamental para entender las prácticas lingüísticas en YouTube. Los youtubers operan simultáneamente en lo global —plataforma transnacional, audiencias internacionales, comunidad hispanohablante amplia— y en lo local —referencias culturales argentinas, léxico regional, temas situados. Esta doble inscripción genera estrategias específicas.
+
+La **neutralización formal / particularización temática** nivelan pronunciación y léxico hacia formas más estándar, pero conservan referencias culturales locales (clubes de fútbol, programas de TV argentinos). La **marcación explícita de localismo** transforma la marca dialectal en recurso performativo: cuando se usa léxico muy regional, se lo explica mediante placas escritas, paréntesis orales ("o sea, bondi, el colectivo") o humor autoconsciente. La **alternancia *code-switching* identitaria** aumenta la neutralización en contextos de mayor proyección internacional (colaboraciones con youtubers extranjeros) y refuerza marcas regionales en contextos de cercanía con audiencia local.
+
+
+| **Youtuber** | **Origen** | **Variedad dialectal** | **Suscriptores (2016)** |
+|:---|:---|:---|:---|
+| Lucas Castel | Buenos Aires | Rioplatense | ~2.5M |
+| Julián Serrano | Entre Ríos | Litoral/Rioplatense ⟳ | ~3M |
+| Gonzalo Fonseca | Uruguay/Buenos Aires | Rioplatense | ~1.5M |
+| Lionel Ferro | Córdoba | Centro (cordobés) ⟳ | ~1.2M |
+| Mariano Bondar | Buenos Aires | Rioplatense | ~2M |
+| Gonzalo Goette | Buenos Aires | Rioplatense | ~1.8M |
+| Elchuiuical | Buenos Aires | Rioplatense | ~1.5M |
+| Mica Suárez | Buenos Aires | Rioplatense | ~1.6M |
+
+: Youtubers del corpus, origen geográfico y variedad dialectal. {#tbl-corpus-dialectal}
+
+Las **variables sociolingüísticas** analizadas incluyen: rasgos fonético-fonológicos identificables (aspiración de /s/, tipo de yeísmo, entonación), léxico regional vs. estándar vs. específico de plataforma, formas de tratamiento (vos/tú, ustedes/vosotros) y referencias metalingüísticas a la propia variedad. Las **variables pragmático-discursivas** incluyen: actos de habla ritualizados (saludos, despedidas, disculpas, agradecimientos, promesas), llamados a la acción (suscribirse, comentar, compartir), deícticos de construcción de comunidad, y estrategias de cortesía y anticortesía. Las **variables temporales** incluyen la evolución diacrónica (videos 2012 vs. 2016) y los cambios en rasgos dialectales a lo largo del tiempo.
+
+El análisis procede en dos movimientos: primero, el análisis en profundidad de los dos casos con variación sociodialectal evidente (Ferro y Serrano); segundo, el análisis transversal de todo el corpus para identificar el registro pragmático-discursivo común.
+
+## Variación sociodialectal y estrategias de nivelación
+
+Este apartado focaliza el análisis en los dos youtubers del corpus cuyas variedades de origen difieren significativamente del estándar rioplatense bonaerense: Lionel Ferro (Córdoba) y Julián Serrano (Entre Ríos).
+
+### Lionel Ferro: la neutralización
+
+El caso de Lionel Ferro constituye el ejemplo paradigmático de lo que podríamos denominar una **nivelación dialectal por profesionalización**. Su IGL más alto del corpus (0.52) encuentra su correlato material en una gestión del habla orientada sistemáticamente hacia la desmarcación regional. Si en su trayectoria identitaria Ferro construye al "yo" como un producto mediático consciente, en el plano sociolingüístico esta operación se traduce en una asepsia deliberada de los rasgos cordobeses, sacrificando la "autenticidad territorial" en pos de una inteligibilidad transnacional apta para los estándares de la industria del entretenimiento global.
+
+El análisis de su producción temprana —en particular el video "Ruggero Pasquarelli besa el pie de Lionel Ferro" (2014)— revela que el proceso de neutralización no fue gradual, sino fundacional. A pesar de ser nativo de una zona dialectal con marcas fonético-fonológicas de alta saliencia perceptiva —aspiración intensa de /s/ implosiva, alargamiento vocálico tónico y curva entonativa circunfleja distintiva—, Ferro exhibe desde sus inicios una variedad ya estandarizada hacia el modelo rioplatense urbano. Frases como "me los afeito" o "acostumbrate" se enuncian con una prosodia que elide por completo la musicalidad cordobesa esperable. Más reveladora aún es la apertura de su video VID 40 (2016):
+
+> "No, mentira, soy Lío. [...] Bueno, estoy acá en el camarín solo y aburrido. No sé qué hacer. Así que voy a subir un video a YouTube mostrando los Snapchat que hago. ¿Qué les parece?" (VID 40, 0:03-0:22)
+
+Ni la entonación, ni el léxico, ni la construcción sintáctica delatan procedencia cordobe­sa. El "acá en el camarín" podría ser dicho por cualquier joven de Capital Federal. La neutralización ya no es esfuerzo: es *habitus*.
+
+Esta decisión lingüística no debe leerse como una "pérdida" pasiva por contacto dialectal tras su mudanza a la capital, sino como una estrategia de acomodación proactiva. Ferro comprende tempranamente que el acento regional, en la economía simbólica de los medios masivos, funciona frecuentemente como marcador de humor costumbrista o de periferia cultural, roles que colisionan con su aspiración de posicionarse como galán juvenil internacional. Al borrar las huellas de su origen fonético, "limpia" la interfaz comunicativa para maximizar la señal global.
+
+La paradoja de esta operación reside en cómo afecta su IAP. A diferencia de creadores como Lucas Castel, cuya autenticidad reside en la "suciedad" vital de su habla barrial, la autenticidad de Ferro es, paradójicamente, su artificialidad transparente: su habla no pretende ser espontánea, sino correcta y eficaz. La ausencia de marcadores coloquiales cordobeses y la adopción de un registro léxico estándar refuerzan su identidad de "producto profesional". La evolución diacrónica hacia 2016 —visible en videos como "Les presento al amor de mi vida"— confirma la consolidación de este registro: la neutralización deja de ser un esfuerzo performático para convertirse en *habitus* mediático. Ferro logra así una "glocalidad desanclada": conserva referencias temáticas a su origen (menciona Córdoba, el fernet) como meros datos biográficos, pero vacía su habla de la materialidad sonora de ese territorio.
+
+### Julián Serrano: del litoral entrerriano al estándar bonaerense
+
+Si Lionel Ferro ilustra la neutralización hacia un estándar global desterritorializado, la trayectoria de Julián Serrano ejemplifica un proceso diferente: la nivelación hacia el estándar de prestigio nacional. Su desplazamiento desde la variedad litoral entrerriana hacia la norma culta rioplatense bonaerense no busca borrar la argentinidad (como en Ferro), sino centralizarla, alineando su habla con el centro de poder mediático y simbólico del país. Esta estrategia es coherente con su perfil en la red: el "conector universal" del ecosistema local, con el ICP más alto del corpus, no puede sonar "extranjero" pero tampoco puede permitirse las marcas regionales que limitarían su ascenso al *star-system* televisivo.
+
+El punto de partida de esta curva evolutiva se encuentra en sus producciones tempranas. En "FILOSOFANDO (?)" (2012), un Serrano adolescente performa una identidad de "rebelde sin causa" mediante una anticortesía lingüística sistemática: alta densidad de vocabulario vulgar y coloquialismos agresivos ("tipo un verga", "una mierda", "la p*** que te pario") que funcionan como marcadores de pertenencia subcultural. En este estadio, la variedad dialectal entrerriana —con su aspiración de /s/ más frecuente y una entonación pausada— se amalgama con un registro de "bajos fondos" juveniles que garantiza legitimidad ante sus pares, pero que resulta inviable para el mercado masivo.
+
+El quiebre se produce con su mudanza a Buenos Aires y su inserción en la industria televisiva (*Aliados*, Cris Morena). El contraste con videos tardíos como "Viaje a México con otros creadores" (2016) es drástico: desaparecen los improperios como muletillas constantes, se adopta el léxico técnico de la "economía de creadores" ("grabar", "contenido", "equipo"). Fonéticamente, Serrano no adopta el neutro latino de Ferro; adopta la prosodia del joven exitoso de Buenos Aires. Su yeísmo se rehíla con mayor nitidez (acercándose al [ʃ] porteño) y su entonación adquiere el ritmo urbano capitalino.
+
+La evidencia más contundente de que estamos ante una competencia sociolingüística activa aparece en el video familiar de 2017, analíticamente crucial aunque fuera del recorte principal del corpus: al interactuar con sus padres y hermana, quienes conservan intactos los rasgos entrerrianos, Serrano no "vuelve" a su variedad original. Este desajuste pragmático revela que la nivelación se ha sedimentado como *habitus*: el estándar bonaerense ya no es una máscara, sino su nueva piel lingüística. Al sostener esta variedad incluso en la intimidad familiar, Serrano performa la distancia que ha recorrido: el lenguaje se convierte en la prueba material de su movilidad social ascendente.
+
+### La paradoja de la nivelación y la hegemonía del estándar porteño
+
+El análisis contrastivo de ambas trayectorias permite postular un patrón estructural en la gestión de la variedad dialectal en el ecosistema YouTube argentino. Ambos casos revelan una **disociación táctica entre forma y contenido**: neutralización formal de rasgos fonético-fonológicos marcados, pero conservación temática de referencias de origen. Esta maniobra resuelve la tensión constitutiva del IGL: mientras la limpieza fonética garantiza la inteligibilidad ampliada para audiencias transnacionales, la cita recurrente a la cultura local —el fernet, el club de barrio, las costumbres provincianas— preserva la legitimidad de origen. Aunque el acento se pierda, la "patria chica" de la que provienen se convierte en narración: la identidad se vuelve contenido.
+
+Además, la movilidad geográfica acelera la nivelación El desplazamiento físico de la periferia al centro (Córdoba/Entre Ríos → Buenos Aires) no es solo un cambio de domicilio, sino una inmersión en el mercado lingüístico dominante. La profesionalización del rol —que empuja a los creadores desde el amateurismo inicial hacia la integración en la industria de medios— demanda esta nivelación como requisito de entrada para la colaboración internacional y el contrato publicitario.
+
+El hallazgo político más relevante es que la dirección de esta nivelación no es hacia un "español neutro latinoamericano" —ese constructo artificial del doblaje y la CNN—, sino específicamente hacia el rioplatense bonaerense Incluso en espacios digitales supuestamente "democráticos" y desterritorializados como YouTube, la variedad de Buenos Aires funciona como el estándar de facto al que aspiran los creadores provinciales para legitimar su ascenso. El "éxito" en YouTube Argentina no suena a internet; suena a Buenos Aires.
+
+### Evidencia léxica: frecuencia de marcadores regionales y de plataforma
+
+Para respaldar cuantitativamente las observaciones cualitativas precedentes, se realizó un análisis de frecuencia léxica sobre las transcripciones completas de los 80 videos del corpus, cruzando la ocurrencia de marcadores coloquiales rioplatenses y léxico de plataforma con la identidad del creador. La @tbl-frecuencias-lexicas presenta las frecuencias normalizadas por cada 1000 palabras, lo que permite la comparabilidad entre creadores con diferente volumen de producción verbal.
+
+| Marcador | L. Castel | J. Serrano | M. Suárez | G. Fonseca | G. Goette | M. Bondar | L. Ferro | Elchuiuical |
+|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| *boludo/a* | 0.8 | 2.1 | 2.2 | 0.9 | **11.6** | 3.6 | 0.2 | 1.2 |
+| *tipo* (filler) | 0.5 | 0.7 | 1.2 | 2.1 | 0.7 | 0.9 | 0.1 | 0.7 |
+| *chabón* | 0.3 | 0.1 | 0.1 | 0.0 | 0.0 | **2.2** | 0.0 | 0.1 |
+| *pibe/s* | 0.2 | 0.3 | 0.5 | 0.2 | 0.2 | 0.6 | 0.0 | 0.0 |
+| *re* (intensif.) | 0.3 | 0.8 | 0.8 | 0.7 | 0.8 | 0.8 | **1.4** | 0.5 |
+| *bueno* (filler) | 7.9 | 6.6 | 7.6 | 6.2 | **10.2** | 3.4 | 8.3 | 4.8 |
+| *suscri-* | 0.5 | 0.1 | 0.4 | 0.9 | 0.4 | 0.1 | 0.6 | **1.3** |
+| *like/me gusta* | **2.8** | 0.6 | 1.6 | 0.9 | 0.3 | 0.5 | 0.9 | 1.5 |
+| *video/s* | 5.1 | 3.4 | 3.7 | 4.8 | 3.8 | 5.8 | 4.0 | **8.1** |
+| *comentar-* | 0.2 | 0.4 | 0.4 | 0.5 | 0.3 | 0.3 | 0.3 | **1.5** |
+| Total palabras | 12.339 | 13.471 | 18.760 | 12.600 | 10.665 | 11.080 | 12.169 | 8.652 |
+
+: Frecuencia de marcadores léxicos regionales y de plataforma por youtuber (ocurrencias cada 1000 palabras). Fuente: análisis computacional sobre transcripciones del corpus. {#tbl-frecuencias-lexicas}
+
+La tabla revela varios patrones significativos. Primero, la asimetría en el uso de *boludo/a*: Gonzalo Goette multiplica por diez la frecuencia de cualquier otro creador (11.6‰), consistente con su estilo de confrontación callejera, mientras que Lionel Ferro prácticamente lo evita (0.2‰), coherente con su estrategia de neutralización hacia un registro *brand-safe*. Segundo, el léxico de plataforma (*suscri-*, *video*, *comentar-*) muestra concentraciones más altas en Elchuiuical, el creador más explícitamente metacomunicativo del corpus, y menores en Serrano y Bondar, quienes integran los llamados a la acción de forma más naturalizada en el flujo discursivo. Tercero, el intensificador *re* —marcador coloquial rioplatense por excelencia— está presente en todos los creadores, pero alcanza su pico paradójicamente en Ferro (1.4‰), lo que sugiere que la nivelación dialectal opera selectivamente: se borran los rasgos fonéticos, pero se conservan las partículas pragmáticas de alta frecuencia, aquellas que funcionan como *shibboleths* de argentinidad sin connotar una procedencia regional específica.
+
+### Evolución diacrónica: el léxico como indicador de profesionalización
+
+El contraste entre los primeros y los últimos cinco videos de cada creador permite trazar la curva de profesionalización lingüística. Los datos más reveladores emergen de tres tendencias convergentes:
+
+1. **Intensificación del coloquialismo en los creadores consolidados.** Contra lo esperable, el uso de *boludo/a* aumenta en la etapa tardía de Goette (de 2.1‰ a 18.1‰), Serrano (de 0.5‰ a 3.3‰) y Bondar (de 1.4‰ a 4.8‰). Esto sugiere que la "licencia para el exceso" coloquial es un privilegio de la audiencia consolidada: a mayor capital simbólico acumulado, mayor libertad para transgredir las normas de cortesía sin riesgo de pérdida de audiencia.
+
+2. **Descenso del léxico metadiscursivo de plataforma.** La frecuencia de *suscri-* cae en casi todos los creadores entre la etapa inicial y la final (Elchuiuical: de 2.5‰ a 0.2‰; Fonseca: de 1.8‰ a 0.5‰). Los creadores profesionalizados integran el llamado a la acción como componente implícito del género, ya no como instrucción explícita.
+
+3. **Estabilidad del *bueno* como marcador de oralidad performada.** El filler *bueno* se mantiene estable o crece en la mayoría de los creadores, confirmando su función como bisagra discursiva indispensable para la improvisación organizada que define el registro del vlog.
+
+## La construcción del registro pragmático-discursivo
+
+Más allá de la variación sociodialectal determinada por el origen geográfico, el análisis transversal del corpus revela que todos los youtubers, independientemente de su procedencia, convergen en un registro pragmático-discursivo común: un modo de hablar diseñado para gestionar la atención, fomentar la interacción y fidelizar comunidades en un entorno de alta competencia algorítmica. Esto es lo que hoy conocemos como la lucha por la economía de la atención.
+
+### Léxico emergente: de la intuición a la profesionalización
+
+El examen diacrónico del vocabulario empleado entre 2012 y 2016 desmiente la hipótesis de una "jerga adolescente" caótica. Por el contrario, lo que observamos es la consolidación progresiva de un léxico técnico vinculado a la gestión del ecosistema digital.
+
+Esta evolución se manifiesta primero en la saturación del léxico técnico-plataforma Términos como *video* (presente en el 90% de las producciones finales) y referencias a la interfaz como *link* o *descripción* (que ascienden al 55%) dejan de ser instrucciones operativas para convertirse en marcadores deícticos del espacio digital. El youtuber no solo habla *en* la pantalla, sino *sobre* la pantalla, espacializando su discurso para guiar la navegación del usuario.
+
+Resulta particularmente revelador el comportamiento de *Like/Me gusta* y *Suscribirse*. Lejos de ser adquisición tardía de la profesionalización, los datos indican que son fundacionales: el pedido de aprobación (el *like*) saturaba el discurso ya en la etapa inicial (55%). La conciencia del algoritmo y la "tiranía del engagement" son constitutivas del género desde su génesis; no se aprende a ser youtuber y *luego* se pide el like, sino que pedir el like es lo que *instituye* al sujeto como youtuber.
+
+En segundo lugar, el léxico denota una expansión transmedial. Hacia 2015-2016, el discurso de los creadores registra un incremento masivo en las menciones de plataformas externas como *Twitter* (+27.5 puntos porcentuales) e *Instagram* (+20 pp), en detrimento de un *Facebook* en retroceso (-5 pp). Este desplazamiento léxico no es anecdótico: marca el momento en que el youtuber deja de ser un productor de videos para convertirse en un gestor de comunidades multiplataforma.
+
+| **Término / Concepto** | **Etapa Inicial** | **Etapa Final** | **Tendencia** |
+|:---|:---:|:---:|:---:|
+| Twitter | 22.5% | **50.0%** | +27.5 pp ↑ |
+| Instagram | 12.5% | **32.5%** | +20.0 pp ↑ |
+| Seguidores | 10.0% | **25.0%** | +15.0 pp ↑ |
+| Link / Descripción | 47.5% | **55.0%** | +7.5 pp ↑ |
+| Suscribirse | 37.5% | **42.5%** | +5.0 pp ↑ |
+| Like / Me gusta | **55.0%** | **57.5%** | +2.5 pp → |
+| Facebook | 30.0% | **25.0%** | -5.0 pp ↓ |
+
+: Evolución de la presencia del léxico de plataforma. Comparativa entre etapa inicial (primeros 5 videos) y final (últimos 5 videos) de los creadores del corpus. {#tbl-lexico-plataforma}
+
+La evolución en el CTA (*Call to Action*) muestra también una maduración comunicativa: la complejidad del pedido desciende levemente (de 2.35 a 1.93 tipos de pedidos por video). En lugar de disparar una ráfaga de órdenes, el youtuber profesional focaliza —elige una acción prioritaria por video— y contextualiza: el pedido se integra a la narrativa ("Si quieren que haga la segunda parte, revienten el botón de like") en lugar de aparecer como un bloque aislado.
+
+### La ritualización de la interacción
+
+El análisis del corpus demuestra que el videoblog no sigue las normas de la conversación natural —regidas por la cortesía y el intercambio de turnos— sino una lógica de retención y conversión dictada por el algoritmo.
+
+| **Componente Ritual** | **Presencia** | **Porcentaje** | **Función** |
+|:---|:---:|:---:|:---|
+| Presentación del Tema | 65/80 | **81.2%** | Componente obligatorio |
+| Llamado a la Acción (CTA) | 61/80 | **76.2%** | Componente estructural |
+| Saludo Verbal | 47/80 | **58.8%** | Componente estilístico |
+| Despedida Verbal | 47/80 | **58.8%** | Componente estilístico |
+| Intro / Branding Verbal | 16/80 | **20.0%** | Componente opcional |
+
+: Presencia de componentes rituales en el corpus. {#tbl-componentes-rituales}
+
+La **Contextualización o Presentación del Tema** emerge como el componente obligatorio por excelencia (81.2%): el enunciador explicita la promesa narrativa en el primer minuto para evitar el *zapping*. El **Llamado a la Acción** (76.2%) confirma que el pedido de *engagement* no es un accesorio comercial, sino un componente estructural del género: el vlog está diseñado pragmáticamente para *hacer hacer* —suscribirse, comentar— tanto como para *hacer saber*.
+
+Por el contrario, los rituales de cortesía tradicional —Saludo y Despedida verbal— muestran mayor volatilidad (58.8%). Esta elisión no debe interpretarse como descortesía, sino como una adaptación al ritmo acelerado del consumo digital: los inicios *in media res* y los cortes abruptos al final privilegian la dinámica de la acción sobre el protocolo del encuentro. Más reveladora aún es la escasa presencia de auto-presentaciones ("Hola, soy X", solo en el 20% de los videos): en una relación de intimidad simulada, re-presentarse sería una redundancia que rompería la ilusión de familiaridad preexistente. El youtuber asume que ya es conocido; su identidad es tácita, dada por el contexto del canal.
+
+### La gestión de la periodicidad: la disculpa como evento de excepción
+
+Dentro de los rituales de mantenimiento del vínculo, la "disculpa por ausencia" es un acto de habla que destacamos como central para reparar rupturas en la periodicidad [@depiero2013]. Sin embargo, la evidencia empírica del corpus matiza esta centralidad: la disculpa explícita es estadísticamente marginal. Esto sugiere que, en el período 2012-2016, la presión por la regularidad estricta aún no había alcanzado la rigidez posterior, o que los creadores optaban por elidir el conflicto para sostener un tono de entretenimiento puro.
+
+No obstante, cuando la disculpa emerge —como se observa en el caso de Elchuiuical—, despliega una estructura canónica de **reparación de imagen**: reconocimiento de la falta ("perdón por no subir"), derivación de la responsabilidad hacia factores externos ("se rompió la cámara") y restauración performativa del flujo mediante la entrega del nuevo contenido. En un video de 2015, Elchuiuical abre con una secuencia que ilustra esta estructura:
+
+> «Para empezar, gente, quiero pedirles perdón, los últimos días no subí ningún vídeo. Lo que pasa es que estaba enfermo, no me sentía bien para grabar.» (0:03-0:09)
+
+La disculpa no es un acto comunicativo menor: es una performance de rendición de cuentas ante la comunidad que implica —y por tanto construye— un contrato de regularidad. La excusa ("estaba enfermo") humaniza al creador al mismo tiempo que legitima la periodicidad como norma del género. Aunque cuantitativamente minoritario, este ritual funciona como un "evento saliente" en la memoria de la comunidad: marca los momentos de crisis y reafirma la vigencia del contrato de lectura precisamente al señalar su transgresión momentánea.
+
+### El agradecimiento performativo y la consagración del número
+
+Si la disculpa gestiona la falta, el agradecimiento gestiona el exceso: el crecimiento exponencial de la audiencia. En el corpus, el agradecimiento no se dirige al vacío, sino que celebra la capitalización de la fama en cifras tangibles. El caso de Elchuiuical ilustra meridianamente esta operación. En su video "Especial 3000 suscriptores" (2014), la celebración del número organiza la totalidad del video:
+
+> «¡Hola gente! ¿Cómo están mis queridos amigos? ¡Estamos acá en la especial 3000! Y chicos, estamos acá en la especial 3000 porque, vamos [...] así que bueno, muchas gracias a todos por suscribirse y vamos por más.» (0:13-0:28)
+
+El uso del plural inclusivo ("estamos") opera una distribución retórica del éxito: el logro individual del youtuber se reescribe como una conquista colectiva, fortaleciendo la reciprocidad imaginada. La redundancia enfática ("la especial 3000", repetida dos veces) revela que el número, en la economía simbólica de la plataforma, funciona como consagración cuantificable de valor social [@vandijck2013]. Por su parte, Mica Suárez despliega una variante más afectiva: agradece no el número, sino la fidelidad interaccional ("gracias por ver hasta el final"). En ambos casos, el agradecimiento sella la transacción afectiva del vlog: el youtuber entrega entretenimiento, la audiencia entrega tiempo y atención, y la gratitud verbalizada cierra el circuito.
+
+### Estrategias de cortesía: de la transgresión rebelde a la marca profesional
+
+El análisis pragmático revela una tensión constante entre las normas de la cortesía formal adulta y las dinámicas de afiliación entre pares. Lejos de ser estático, este registro evoluciona a lo largo del período, transitando desde una anticortesía rebelde —propia de la etapa amateur— hacia una cortesía profesionalizada y atenta a las normas de comunidad.
+
+Siguiendo los planteos de @palazzo2010b, el uso de vocabulario vulgar y palabras tabú en el discurso juvenil no opera necesariamente como agresión, sino como una estrategia paradójica de afiliación que marca distancia respecto del registro institucional escolar. Sin embargo, los datos del corpus evidencian una tendencia decreciente en esta práctica: la densidad de insultos cae de 8.19 términos cada mil palabras en la etapa inicial a 6.08 en la etapa final. Esta atenuación progresiva no implica la desaparición de la "suciedad" léxica, sino su refuncionalización: a medida que el canal se profesionaliza, el youtuber reserva la anticortesía para momentos de énfasis cómico o catarsis controlada.
+
+Una meta-reflexión del propio corpus ilumina esta dinámica. En VID 49, Mariano Bondar y Lucas Castel recuerdan juntos sus primeros videos:
+
+> "Aparte, en ese momento, chabón, este primer video, me acuerdo que... que me quería, o sea, hablaba bajito porque no quería que venga nadie a ver que estaba haciendo." — Bondar   
+> "Yo era igual, yo era igual, eso es un factor que se repite en todos, boludo." — Castel (VID 49, 2:20-2:30)
+
+El "hablaba bajito" de Bondar revela que el registro del vlog no nace como grito, sino como susurro clandestino: el youtuber incipiente negocia su voz no solo con la audiencia, sino con el espacio doméstico que habita. El "eso es un factor que se repite en todos" de Castel convierte la anécdota en dato sociolingüístico: la modulación del volumen en función del entorno físico es una experiencia generacional compartida. El registro del vlog, entonces, no se "aprende" de otros youtubers, sino que emerge de las condiciones materiales del dormitorio adolescente.
+
+Contrariamente a la expectativa de encontrar fragmentación de la audiencia en "tribus" con nombres exclusivos (como los "Serranistas", cuya aparición en el corpus es marginal), la estrategia predominante de afiliación es genérica y horizontal. El vocativo por excelencia es **"Chicos"** (53 apariciones), un término inclusivo y generacionalmente marcado que evita las jerarquías implícitas en la relación ídolo-fan. Esta horizontalidad se refuerza mediante el uso sistemático del **"nosotros" inclusivo** (48 apariciones): verbos como "vamos a ver" o "nos pasa" construyen la ficción de una experiencia compartida, borrando discursivamente la asimetría estructural entre quien produce el video y quien lo consume.
+
+En cuanto a la gestión de la imagen, la tensión entre "ser uno mismo" y "actuar para la cámara" se resuelve mediante estilos diferenciados. En el caso de Mica Suárez se observa mayor frecuencia de léxico emocional (tristeza, miedo, sentir), legitimando la vulnerabilidad como insumo narrativo. En contraste, perfiles como el de Lionel Ferro construyen su autenticidad desde la destreza escénica y el *timing* cómico, donde la espontaneidad se percibe paradójicamente a través de una actuación controlada. Ambos estilos demuestran que no existe una única forma de ser auténtico en YouTube, sino repertorios discursivos situados que gestionan la imagen del yo ante la mirada masiva.
+
+## Del mito de la variedad web al registro situado
+
+Los análisis precedentes permiten retomar la pregunta inicial con una base empírica sólida: ¿estamos ante el surgimiento de una "variedad web" del español en YouTube, o asistimos a fenómenos de otra naturaleza?
+
+La evidencia cuantitativa y cualitativa del corpus no ofrece respaldo para sostener la existencia de una variedad lingüística autónoma. No existen innovaciones estructurales profundas: la sintaxis y los rasgos fonéticos (como el yeísmo rehilado o la aspiración de /s/) corresponden inequívocamente a las variedades regionales del español argentino ya descriptas. Los youtubers no cambian su gramática al encender la cámara; simplemente la ponen en escena. El léxico específico tampoco constituye un sistema complejo: se limita funcionalmente a verbos de acción en plataforma (*suscribirse*, *comentar*), sustantivos de interfaz (*link*, *descripción*) y préstamos tecnológicos (*like*). En coincidencia con @cerruti2013, podemos afirmar que hablar de "variedad digital" es un error categorial.
+
+La categoría teórica más robusta para explicar los hallazgos es la de **registro** [@halliday1978]: una variación funcional del lenguaje determinada por el uso. Las regularidades observadas en los 80 videos responden a tres variables situacionales. El Campo (tema) define una narrativa centrada en la intimidad y el entretenimiento. El Tenor (relación) presenta la particularidad de performarse discursivamente como horizontal pese a ser estructuralmente asimétrico: el uso masivo de "Chicos" y del "Nosotros" inclusivo construye una "masa amiga" borrando las jerarquías implícitas de la fama. El Modo (canal) genera lo que podemos denominar una **deixis de pantalla**: el crecimiento de expresiones como "acá abajo", "en el link" o "te dejo la foto acá" evidencia cómo el discurso se ancla en la interfaz visual.
+
+En última instancia, este análisis sugiere la necesidad de "des-tecnologizar" la mirada sobre el lenguaje juvenil. Muchos rasgos frecuentemente atribuidos a "Internet" o a "YouTube" son, en realidad, marcas de estilo juvenil amplificadas por el medio. La informalidad, la ironía y la alta emocionalidad validada en el corpus no son "ciberlengua"; son estrategias generacionales de diferenciación frente al mundo adulto y sus instituciones. Los sujetos de esta tesis no hablan como máquinas ni como algoritmos; hablan como jóvenes argentinos que han profesionalizado un registro técnico-comercial para gestionar su audiencia, insertando su voz local en una conversación global.
+
+## Conclusiones parciales del capítulo
+
+El recorrido analítico permite clausurar la pregunta por la naturaleza del lenguaje en el videoblog con una afirmación: no estamos ante el surgimiento de una nueva "variedad dialectal" de Internet, sino ante la consolidación de un **registro profesional situado**. Lejos de la improvisación caótica que a menudo se atribuye al habla juvenil, los datos revelan que el lenguaje de los youtubers es una construcción pragmática, diseñada para gestionar la atención, la identidad y el mercado en un entorno de alta competencia simbólica.
+
+La evidencia empírica desarticula la hipótesis de la "variedad web". Los youtubers no utilizan una gramática ni una fonología nativa de lo digital; operan mediante un registro pragmático-discursivo caracterizado por su funcionalidad: léxico técnico restringido orientado a la gestión de la interfaz, y ritualización de la interacción que prioriza la eficacia algorítmica sobre el protocolo social. La evolución desde una anticortesía transgresora hacia una cortesía profesionalizada demuestra que la "extimidad" lingüística ha dejado de ser una catarsis cruda para convertirse en un activo de marca. El insulto y la vulgaridad, otrora marcas de autenticidad rebelde, se atenúan o refuncionalizan para no obstaculizar la expansión de la audiencia.
+
+Quizás el hallazgo sociolingüístico más relevante de la investigación sea la identificación de un patrón estructural de nivelación dialectal hacia el **rioplatense bonaerense**. El análisis de las trayectorias de creadores del interior del país demuestra que la convergencia lingüística hacia el centro no es neutra, sino una estrategia de viabilidad profesional. Esta dinámica revela la persistencia de jerarquías simbólicas tradicionales en el entorno digital: YouTube Argentina no es un espacio plano, sino un territorio estriado donde el prestigio se concentra en Buenos Aires. Sin embargo, esta operación no implica una pérdida absoluta de identidad, sino una negociación glocal: se neutraliza la *forma* (fonética y gramática) para asegurar el alcance, pero se enfatiza el *contenido* local (referencias culturales, narrativas de origen) para preservar la autenticidad.
+
+Las limitaciones del estudio merecen reconocimiento. El sesgo centralista y de género del corpus —con predominancia de varones y habitantes del AMBA— no es solo una limitación metodológica, sino un dato de la realidad del campo en el período 2012-2016: la visibilidad algorítmica reproducía desigualdades estructurales preexistentes. Investigaciones futuras deberán indagar si la explosión posterior de plataformas como TikTok ha democratizado estos flujos o si ha generado nuevas hegemonías. Asimismo, la naturaleza ortográfica de las transcripciones impone un límite al análisis fonético fino: un abordaje acústico instrumental constituiría el paso necesario para medir con precisión los grados de acomodación dialectal que aquí hemos descrito cualitativamente.
+
+En definitiva, el youtuber no es un usuario pasivo de una jerga de moda, sino un auténtico agente sociolingüístico: su habla es el resultado de una relación dialógica constante entre la espontaneidad generacional y la disciplina del medio. La nivelación dialectal y la adopción del registro técnico no deben leerse con nostalgia purista, como una degradación de la diversidad, sino pragmáticamente como tecnologías de ascenso social y posicionamiento público. Los jóvenes argentinos han logrado convertir la conversación cotidiana —esa materia prima aparentemente trivial— en un producto cultural masivo, y para hacerlo han debido profesionalizar su lengua. Estudiar sus prácticas discursivas es comprender la vanguardia de los procesos mediante los cuales las nuevas generaciones habitan, negocian y transforman el espacio público contemporáneo.
